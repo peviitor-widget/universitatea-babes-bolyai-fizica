@@ -1,190 +1,241 @@
 [
   {
-    "url": "https://jobs.bosch.com/en/job/REF292698E-working-student-in-embedded-software-development-high-level",
-    "title": "Working Student in Embedded Software Development - High Level",
-    "company": "BOSCH + WAGNER INTERNATIONAL ENGINEERING SRL",
+    "url": "https://www.hipo.ro/locuri-de-munca/locuri_de_munca/270990/AUMOVIO-Romania/Internship-for-REL-Laboratory-(Iasi)",
+    "title": "Internship for REL Laboratory (Iasi)",
+    "company": "AUMOVIO TECHNOLOGIES ROMANIA S.R.L.",
     "location": [
-      "Cluj-Napoca, Romania"
+      "Iași, Romania"
     ],
     "salary": null,
-    "date": "2026-08-21T09:08:04.313Z",
+    "date": "2026-08-23T08:54:59.283Z",
     "status": "scraped",
     "tags": [
-      "informatică aplicată",
-      "gândire critică"
+      "echipamente de laborator",
+      "conducerea experimentelor"
     ],
-    "matchPercentage": 55,
-    "reason": "Dezvoltare software embedded; baza mea matematică și aplicarea algebrei în informatică ajută, deși lipsesc cunoștințe specifice embedded."
+    "matchPercentage": 70,
+    "reason": "Lucru in laborator de fiabilitate/testare electronica: planificarea experimentelor, utilizarea echipamentelor si interpretarea masuratorilor se potrivesc direct pregatirii."
   },
   {
-    "url": "https://jobs.siemens-energy.com/en_US/jobs/FolderDetail/Working-Student-Media-Developer-Process-Modeller/300894",
-    "title": "Working Student - Media Developer &amp; Process Modeller",
-    "company": "SIEMENS ENERGY AUSTRIA GMBH VIENA SUCURSALA BUCURESTI",
+    "url": "https://jobviewtrack.com/v2/XR2U811wDHpqvzTAob3eJE6KRD8spRwNxW_G88csYRSnQGdqHOdgXDxHnl3cSyxxvQyFDV6fss-F4N9SqX-Adn8jj_XycrfVl_8RHWgc27ohoN-jphWeswOleoze5Z8nVTaBMCzACEdN5QNPu_7jqt-oZuAvxj9ZtKTt7hXpRle5qudf75xNrjTngHdsvTiwmFElWtjhq2MJqpeFG5m-bhMvRqemh4Aafay9e9w0AXA",
+    "title": "Internship for SMT &amp; Maintenance Team - Manufacturing TM",
+    "company": "AUMOVIO TECHNOLOGIES ROMANIA S.R.L.",
+    "location": [
+      "Timișoara, Timis, Romania"
+    ],
+    "salary": null,
+    "date": "2026-08-23T08:54:36.557Z",
+    "status": "scraped",
+    "tags": [
+      "fizica stării solide",
+      "echipamente de laborator"
+    ],
+    "matchPercentage": 55,
+    "reason": "Industrie de electronica cu procese de productie SMT; baza de fizica starii solide si experienta cu echipamente ajuta, desi e mai degraba tehnic decat cercetare."
+  },
+  {
+    "url": "https://www.undelucram.ro/ro/locuri-de-munca/internship-for-software-test-engineer-iasi/99667",
+    "title": "Internship for Software Test Engineer (Iasi)",
+    "company": "AUMOVIO TECHNOLOGIES ROMANIA S.R.L.",
+    "location": [
+      "Iași, Romania"
+    ],
+    "salary": null,
+    "date": "2026-08-23T08:52:29.538Z",
+    "status": "scraped",
+    "tags": [
+      "rezolvare de probleme",
+      "algebră computațională"
+    ],
+    "matchPercentage": 65,
+    "reason": "Testing software manual si automat se incadreaza in domeniul IT/analiza de date; gandirea analitica si baza matematica solida sunt un avantaj clar pentru entry-level."
+  },
+  {
+    "url": "https://www.bestjobs.eu/loc-de-munca/junior-engineer-trivalea-mosteni",
+    "title": "Junior Engineer / Trivalea-Moşteni",
+    "company": "SAFETY APPROACH SRL",
+    "location": [
+      "Tatarastii de Sus, Romania,Corbii Mari, Romania,Crevedia Mare,Trivalea-Mosteni, Romania,Talpa-Bascoveni, Romania,Videle Teleorman, Videle, Romania,Rosiori de Vede, Romania,Alexandria, Romania"
+    ],
+    "salary": null,
+    "date": "2026-08-23T08:57:42.043Z",
+    "status": "scraped",
+    "tags": [
+      "modelare matematică",
+      "rezolvare de probleme"
+    ],
+    "matchPercentage": 50,
+    "reason": "Pozitie de inginer junior accesibila unui absolvent de fizica prin modelare matematica si rezolvarea de probleme tehnice concrete, desi domeniul exact este neclarificat."
+  },
+  {
+    "url": "https://www.hipo.ro/locuri-de-munca/locuri_de_munca/270488/ABC-Human-Capital/Junior–Mid-Hardware-Support-Specialist",
+    "title": "Junior–Mid Hardware Support Specialist",
+    "company": "ABC HUMAN CAPITAL SRL",
+    "location": [
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-08-23T08:56:49.549Z",
+    "status": "scraped",
+    "tags": [
+      "rezolvare de probleme",
+      "echipamente de laborator"
+    ],
+    "matchPercentage": 45,
+    "reason": "Suport hardware intra partial in sfera IT; experienta cu echipamente si abordarea sistematica a problemelor ajuta, chiar daca rolul e operationar."
+  },
+  {
+    "url": "https://job-boards.greenhouse.io/onapsis/jobs/8704636002",
+    "title": "Technical Support Specialist - Level 2 - Night ShiftNew",
+    "company": "ONAPSIS ROMANIA S.R.L.",
     "location": [
       "Bucuresti, Romania"
     ],
     "salary": null,
-    "date": "2026-08-21T09:09:28.212Z",
-    "status": "scraped",
-    "tags": [
-      "modelare matematică",
-      "industria energiei"
-    ],
-    "matchPercentage": 70,
-    "reason": "Modelarea proceselor în industria energiei se potrivește cu modelarea matematică și gândirea abstractă."
-  },
-  {
-    "url": "https://jobs.bosch.com/en/job/REF289126L-working-student-manufacturing-engineering-support",
-    "title": "Working Student – Manufacturing Engineering Support",
-    "company": "BOSCH + WAGNER INTERNATIONAL ENGINEERING SRL",
-    "location": [
-      "Jucu, Romania"
-    ],
-    "salary": null,
-    "date": "2026-08-21T09:08:16.911Z",
+    "date": "2026-08-23T08:58:10.924Z",
     "status": "scraped",
     "tags": [
       "rezolvare probleme",
-      "lucru în echipă"
+      "informatică aplicată"
     ],
-    "matchPercentage": 60,
-    "reason": "Inginerie de producție; rezolvarea de probleme tehnice și munca în echipă multidisciplinară sunt puncte forte ale mele."
+    "matchPercentage": 40,
+    "reason": "Profil analitic și gândire structurată utile pentru troubleshooting și analiza logurilor, dar este suport SAP în tura de noapte, fără legătură directă cu fizica."
   },
   {
-    "url": "https://www.hipo.ro/locuri-de-munca/locuri_de_munca/268632/Bosch-Romania/Working-Student---Industrial-Engineering-",
-    "title": "Working Student - Industrial Engineering",
+    "url": "https://careers.honeywell.com/en/sites/Honeywell/job/153839",
+    "title": "Operator Productie-SMT (Machine Operator - Level 3) (m/f/d)",
+    "company": "HONEYWELL ROMANIA SRL",
+    "location": [
+      "Lugoj, Romania"
+    ],
+    "salary": null,
+    "date": "2026-08-23T08:57:11.533Z",
+    "status": "scraped",
+    "tags": [
+      "echipamente de laborator",
+      "electronică"
+    ],
+    "matchPercentage": 45,
+    "reason": "Industria electronică este un domeniu țintă și operarea echipamentelor SMT se sprijină pe abilități tehnice de laborator, dar rolul de operator e sub calificarea de fizician."
+  },
+  {
+    "url": "https://www.hipo.ro/locuri-de-munca/locuri_de_munca/270399/Bosch-Romania/Working-Student---Quality-Management-Purchasing",
+    "title": "Working Student - Quality Management Purchasing",
     "company": "BOSCH + WAGNER INTERNATIONAL ENGINEERING SRL",
     "location": [
       "Blaj, Romania"
     ],
     "salary": null,
-    "date": "2026-08-21T09:06:47.114Z",
+    "date": "2026-08-23T08:56:59.589Z",
     "status": "scraped",
     "tags": [
-      "gândire critică",
+      "măsurări experimentale",
       "lucru în echipă"
     ],
-    "matchPercentage": 55,
-    "reason": "Inginerie industrială entry-level; abordarea analitică și gândirea critică sunt transferabile."
+    "matchPercentage": 50,
+    "reason": "Managementul calității în industrie implică colectare de probe și măsurători, compatibil ca working student cu pregătirea experimentală."
   },
   {
-    "url": "https://www.hipo.ro/locuri-de-munca/locuri_de_munca/268372/Bosch-Romania/Working-Student-Laboratory-Support-(Electronics-Team)",
-    "title": "Working Student Laboratory Support (Electronics Team)",
-    "company": "BOSCH + WAGNER INTERNATIONAL ENGINEERING SRL",
-    "location": [
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-08-21T09:05:39.243Z",
-    "status": "scraped",
-    "tags": [
-      "echipamente laborator",
-      "măsurători experimentale"
-    ],
-    "matchPercentage": 80,
-    "reason": "Lucru în laborator de electronică se potrivește direct cu experiența mea cu echipamente de cercetare și măsurători experimentale."
-  },
-  {
-    "url": "https://jobs.porsche.com/index.php?ac=jobad&amp;id=21347",
-    "title": "Working Student – IP &amp; Patent Support  (f/m/d)",
-    "company": "PORSCHE GROUP SRL",
-    "location": [
-      "Cluj-Napoca, Romania"
-    ],
-    "salary": null,
-    "date": "2026-08-21T09:04:29.612Z",
-    "status": "scraped",
-    "tags": [
-      "redactare științifică",
-      "gândire critică"
-    ],
-    "matchPercentage": 55,
-    "reason": "Analiza brevetelor tehnice valorifică redactarea științifică și capacitatea de a înțelege idei complexe."
-  },
-  {
-    "url": "https://jobs.porsche.com/index.php?ac=jobad&amp;id=21348",
-    "title": "Working Student – IP &amp; Patent Support  (f/m/d)",
-    "company": "PORSCHE GROUP SRL",
-    "location": [
-      "Timișoara, Romania"
-    ],
-    "salary": null,
-    "date": "2026-08-21T09:04:29.612Z",
-    "status": "scraped",
-    "tags": [
-      "comunicare științifică",
-      "gândire critică"
-    ],
-    "matchPercentage": 55,
-    "reason": "Similar cu varianta din Cluj: analiza documentelor tehnice se bazează pe comunicarea ideilor științifice complexe."
-  },
-  {
-    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000130411524",
-    "title": "Working Student - Industrial Engineering",
+    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000140870521",
+    "title": "Working Student - Quality Management Purchasing",
     "company": "DEN BOSCH GROUP SRL",
     "location": [
       "Blaj, Romania"
     ],
     "salary": null,
-    "date": "2026-08-21T09:00:46.015Z",
-    "status": "scraped",
-    "tags": [
-      "analiză de date",
-      "lucru în echipă"
-    ],
-    "matchPercentage": 55,
-    "reason": "Colectarea bazelor de date și analiza KPI folosesc abilitățile mele de analiză și sinteză a datelor."
-  },
-  {
-    "url": "https://www.hipo.ro/locuri-de-munca/locuri_de_munca/271129/Bosch-Romania/Working-Student-in-Embedded-Software-Development---High-Level",
-    "title": "Working Student in Embedded Software Development - High Level",
-    "company": "BOSCH + WAGNER INTERNATIONAL ENGINEERING SRL",
-    "location": [
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-08-21T09:00:12.791Z",
-    "status": "scraped",
-    "tags": [
-      "informatică aplicată",
-      "învățare autonomă"
-    ],
-    "matchPercentage": 55,
-    "reason": "Software development posibil datorită aplicațiilor algebrei în informatică, dar fără experiență embedded dedicată."
-  },
-  {
-    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000142129269",
-    "title": "Working Student in Verification &amp; Validation &amp; Test Automation",
-    "company": "DEN BOSCH GROUP SRL",
-    "location": [
-      "Cluj-Napoca, Romania"
-    ],
-    "salary": null,
-    "date": "2026-08-21T08:59:46.108Z",
+    "date": "2026-08-23T08:56:18.262Z",
     "status": "scraped",
     "tags": [
       "evaluarea incertitudinii",
-      "analiză de date"
+      "echipamente de laborator"
+    ],
+    "matchPercentage": 52,
+    "reason": "Colectarea probelor din producție și manipularea pieselor pentru măsurători se potrivesc cu formarea experimentală și de evaluare a rezultatelor."
+  },
+  {
+    "url": "https://www.hipo.ro/locuri-de-munca/locuri_de_munca/269847/Bosch-Romania/Working-Student---3D-Printing",
+    "title": "Working Student - 3D Printing",
+    "company": "BOSCH + WAGNER INTERNATIONAL ENGINEERING SRL",
+    "location": [
+      "Blaj, Romania"
+    ],
+    "salary": null,
+    "date": "2026-08-23T08:54:58.280Z",
+    "status": "scraped",
+    "tags": [
+      "știința materialelor",
+      "prepararea materialelor"
     ],
     "matchPercentage": 65,
-    "reason": "Testarea și validarea sistemelor se aliniază cu evaluarea incertitudinii și analiza datelor experimentale."
+    "reason": "Printarea 3D SLA/FDM implică știința și prepararea materialelor plus lucrul cu echipamente tehnice, foarte potrivit pentru un student la fizica materialelor."
   },
   {
-    "url": "https://www.hipo.ro/locuri-de-munca/locuri_de_munca/268458/Bosch-Romania/Working-Student---Quality-Engineering-",
-    "title": "Working Student - Quality Engineering",
+    "url": "https://jobs.bosch.com/en/job/REF293717V-working-student-in-verification-validation-test-automation",
+    "title": "Working Student in Verification &amp; Validation &amp; Test Automation",
     "company": "BOSCH + WAGNER INTERNATIONAL ENGINEERING SRL",
+    "location": [
+      "Cluj-Napoca, Romania"
+    ],
+    "salary": null,
+    "date": "2026-08-23T08:54:18.475Z",
+    "status": "scraped",
+    "tags": [
+      "planificarea experimentelor",
+      "analiza datelor"
+    ],
+    "matchPercentage": 60,
+    "reason": "Verificare, validare și automatizări de teste folosesc planificarea experimentelor și analiza de date din planul de studii."
+  },
+  {
+    "url": "https://www.hipo.ro/locuri-de-munca/locuri_de_munca/270427/Siemens-Energy/Working-Student---Media-Developer-&amp;-Process-Modeller",
+    "title": "Working Student - Media Developer &amp; Process Modeller",
+    "company": "SIEMENS ENERGY S.R.L.",
+    "location": [
+      "Bucuresti, Romania"
+    ],
+    "salary": null,
+    "date": "2026-08-23T08:54:05.220Z",
+    "status": "scraped",
+    "tags": [
+      "modelare matematică",
+      "energie"
+    ],
+    "matchPercentage": 60,
+    "reason": "Modelarea proceselor la Siemens Energy valorifică competența de modelare matematică în industria energiei, un domeniu țintă."
+  },
+  {
+    "url": "https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Bucharest/Software-Intern-Student---RealTime-Drivers_R-10062117",
+    "title": "Software Intern Student - RealTime Drivers",
+    "company": "NXP BIROTICA SRL",
+    "location": [
+      "Bucuresti, Romania"
+    ],
+    "salary": null,
+    "date": "2026-08-23T08:53:28.699Z",
+    "status": "scraped",
+    "tags": [
+      "fizica stării solide",
+      "informatică aplicată"
+    ],
+    "matchPercentage": 60,
+    "reason": "Internship în semiconductorii auto: fizica stării solide și aplicarea informaticii sunt relevante, deși programarea embedded (AUTOSAR, C) presupune o curbă de învățare."
+  },
+  {
+    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000137398049",
+    "title": "Working Student - 3D Printing",
+    "company": "DEN BOSCH GROUP SRL",
     "location": [
       "Blaj, Romania"
     ],
     "salary": null,
-    "date": "2026-08-21T08:56:24.471Z",
+    "date": "2026-08-23T08:49:57.882Z",
     "status": "scraped",
     "tags": [
-      "evaluarea incertitudinii",
-      "analiză de date"
+      "știința materialelor",
+      "măsurări experimentale"
     ],
-    "matchPercentage": 60,
-    "reason": "Ingineria calității implică măsurători și interpretarea datelor, competențe dobândite în laboratoarele de fizică."
+    "matchPercentage": 70,
+    "reason": "Design CAD, măsurători ale pieselor și printare 3D SLA/FDM cu post-procesare: combină știința materialelor cu măsurătorile precise, ideal ca working student."
   },
   {
     "url": "https://www.bestjobs.eu/loc-de-munca/fizician-11",
@@ -194,319 +245,267 @@
       "Bucuresti, Romania"
     ],
     "salary": null,
-    "date": "2026-08-21T08:56:30.744Z",
+    "date": "2026-08-23T08:53:39.009Z",
     "status": "scraped",
     "tags": [
-      "planificarea experimentelor",
+      "măsurări experimentale",
       "evaluarea incertitudinii"
     ],
-    "matchPercentage": 95,
-    "reason": "Post de fizician dedicat; planificarea experimentelor, măsurătorile și evaluarea incertitudinii sunt exact competențele mele centrale."
+    "matchPercentage": 92,
+    "reason": "Post dedicat fizicienilor (fizică medicală/dozimetrie): măsurători, evaluarea incertitudinii și utilizarea echipamentelor de specialitate sunt exact competențele din planul de învățământ."
   },
   {
-    "url": "https://mediere.anofm.ro/app/module/mediere/job/3276356",
-    "title": "INGINER DE CERCETARE ÎN ELECTRONICA APLICATA",
-    "company": "VARTA MICROBATTERY SRL",
+    "url": "https://www.bestjobs.eu/loc-de-munca/profesor-de-fizica-informatica-geografie-part-time",
+    "title": "Profesor de Fizica,Informatica,Geografie part-time",
+    "company": "ELECTROMONTAJ SA BUCURESTI SUCURSALA FABRICA DE STILPI METALICI",
     "location": [
-      "Brașov, Romania"
+      "Bucuresti, Romania,Strada Balta Albina 9, Bucuresti, Romania"
     ],
     "salary": null,
-    "date": "2026-08-21T09:07:53.500Z",
+    "date": "2026-08-23T08:56:28.677Z",
     "status": "scraped",
     "tags": [
-      "fizica stării solide",
-      "caracterizarea materialelor"
+      "Comunicare științifică",
+      "Analiză matematică"
     ],
-    "matchPercentage": 80,
-    "reason": "Cercetare-dezvoltare in electronica aplicata (microbatterii) se suprapune perfect cu fizica starii solide, caracterizarea materialelor si lucrul in laborator; cel mai potrivit post din lista."
+    "matchPercentage": 90,
+    "reason": "Pot preda fizică și informatică datorită bazei solide de analiză matematică și abilităților de comunicare a ideilor științifice."
   },
   {
-    "url": "https://www.bestjobs.eu/loc-de-munca/inginer-instalatii-electrice-de-distributie",
-    "title": "Inginer Instalații Electrice de distribuție",
-    "company": "EMADEL ENERGIE SRL",
+    "url": "https://mediere.anofm.ro/app/module/mediere/job/3188910",
+    "title": "INGINER AVIATIE",
+    "company": "DEDALUS TECH SRL",
     "location": [
-      "Buftea, Romania"
+      "Ghercesti, Romania"
     ],
     "salary": null,
-    "date": "2026-08-21T09:10:12.696Z",
+    "date": "2026-08-23T08:58:36.852Z",
     "status": "scraped",
     "tags": [
-      "modelare matematică",
-      "rezolvare de probleme"
+      "Modelare matematică",
+      "Gândire critică"
+    ],
+    "matchPercentage": 65,
+    "reason": "Ingineria aviatică valorifică modelarea matematică, fizica și gândirea critică; selecția prin probă de lucru este accesibilă pentru un absolvent de fizică."
+  },
+  {
+    "url": "https://mediere.anofm.ro/app/module/mediere/job/3235057",
+    "title": "INGINER AUTOVEHICULE RUTIERE",
+    "company": "INFOPRO DIGITAL AUTOMOTIVE SOCIETATE CU RASPUNDERE LIMITATĂ",
+    "location": [
+      "Bucuresti sectorul 5, Romania"
+    ],
+    "salary": null,
+    "date": "2026-08-23T08:58:35.159Z",
+    "status": "scraped",
+    "tags": [
+      "Modelare matematică",
+      "Analiza datelor"
     ],
     "matchPercentage": 55,
-    "reason": "Industria energiei face parte din domeniile mele tintite; baza fizica solida si modelarea matematica compenseaza lipsa experientei specifice, cu formare la locul de munca."
+    "reason": "Muncă de birou în ingineria auto, potrivită pentru analiza și modelarea problemelor tehnice reale."
   },
   {
-    "url": "https://mediere.anofm.ro/app/module/mediere/job/3352394",
-    "title": "INGINER ELECTROENERGETICA",
-    "company": "DISTRIBUȚIE ENERGIE ELECTRICĂ ROMANIA S.A.",
+    "url": "https://www.bestjobs.eu/loc-de-munca/tehnician-inginer-autocad-2",
+    "title": "TEHNICIAN/INGINER AUTOCAD",
+    "company": "MSM ALUMINIUM &amp; PVC SYSTEMS SRL",
     "location": [
-      "Oras covasna, Romania"
+      "Str. Splaiul Unirii, nr. 5B, Popesti-Leordeni, Ilfov, Romania"
     ],
     "salary": null,
-    "date": "2026-08-21T09:10:12.696Z",
+    "date": "2026-08-23T08:58:20.877Z",
     "status": "scraped",
     "tags": [
-      "modelare matematică",
-      "rezolvare de probleme"
-    ],
-    "matchPercentage": 55,
-    "reason": "Distributie de energie electrica - sector energetic compatibil cu profilul unui fizician, selectionare prin concurs accesibila unui junior."
-  },
-  {
-    "url": "https://mediere.anofm.ro/app/module/mediere/job/3355406",
-    "title": "PROIECTANT INGINER ELECTRONIST",
-    "company": "PLEXUS SERVICES RO SRL",
-    "location": [
-      "Oradea, Romania"
-    ],
-    "salary": null,
-    "date": "2026-08-21T09:10:04.631Z",
-    "status": "scraped",
-    "tags": [
-      "fizica stării solide",
-      "algebra liniară"
-    ],
-    "matchPercentage": 70,
-    "reason": "Proiectare electronica strans legata de fizica starii solide si semiconductorii; deschisa cetatenilor UE si potrivita pentru un fizician junior dispus sa invete proiectare."
-  },
-  {
-    "url": "https://www.bestjobs.eu/loc-de-munca/inginer-proiectant-instalatii-electrice-307",
-    "title": "Inginer proiectant instalatii electrice",
-    "company": "ICEPRONAV ENGINEERING SRL",
-    "location": [
-      "Strada Sabinelor, nr. 8, sector 5, Bucuresti, Romania"
-    ],
-    "salary": null,
-    "date": "2026-08-21T09:10:03.897Z",
-    "status": "scraped",
-    "tags": [
-      "modelare matematică",
-      "rezolvare de probleme"
-    ],
-    "matchPercentage": 55,
-    "reason": "Proiectare instalatii electrice in constructii; partial compatibil prin fundamentele fizice si gandirea analitica, dar necesita formare specifica in proiectare."
-  },
-  {
-    "url": "https://www.undelucram.ro/ro/locuri-de-munca/inginer-proiectare-electrica/90147",
-    "title": "Inginer proiectare electrica",
-    "company": "IMSAT BIHOR SRL",
-    "location": [
-      "bucuresti, Romania"
-    ],
-    "salary": null,
-    "date": "2026-08-21T09:10:00.990Z",
-    "status": "scraped",
-    "tags": [
-      "modelare matematică",
-      "lucru în echipă"
+      "Învățare autonomă",
+      "Gândire abstractă"
     ],
     "matchPercentage": 50,
-    "reason": "Proiectare electrica industriala interesanta pentru un fizician, dar anuntul cere experienta anterioara in proiectare, santier si punere in functiune."
+    "reason": "Desenul tehnic CAD se poate învăța rapid datorită gândirii abstracte și capacității de învățare autonomă."
   },
   {
-    "url": "https://job-boards.greenhouse.io/awin/jobs/7891432003",
-    "title": "Senior Product Data Analyst (f/m/d)New",
-    "company": "AWIN ROMANIA S.R.L.",
+    "url": "https://mediere.anofm.ro/app/module/mediere/job/3300927",
+    "title": "OPERATOR INTRODUCERE, VALIDARE SI PRELUCRARE DATE",
+    "company": "RENANIA TRADE SRL",
     "location": [
-      "Iași, Romania"
+      "Municipiul targu mures, Romania"
     ],
     "salary": null,
-    "date": "2026-08-21T09:10:00.990Z",
+    "date": "2026-08-23T08:58:35.159Z",
     "status": "scraped",
     "tags": [
-      "Analiză date",
-      "Modelare matematică"
-    ],
-    "matchPercentage": 55,
-    "reason": "Analiza cantitativă, modelarea matematică și sinteza datelor sunt competențele mele forte, dar poziția este senior și cere experiență în product analytics pe care nu o am încă."
-  },
-  {
-    "url": "https://www.bestjobs.eu/loc-de-munca/responsabil-de-incercari-laborator-profil-md-si-d",
-    "title": "Responsabil de Încercări Laborator- Profil MD și D",
-    "company": "LABORATOR DE FEBRUARIE S.R.L.",
-    "location": [
-      "Bragadiru, Romania"
-    ],
-    "salary": null,
-    "date": "2026-08-21T09:09:53.436Z",
-    "status": "scraped",
-    "tags": [
-      "Caracterizarea materialelor",
-      "Incertitudine experimentală"
-    ],
-    "matchPercentage": 78,
-    "reason": "Rol de laborator cu încercări de materiale: planificarea experimentelor, măsurători, evaluarea incertitudinii și caracterizarea materialelor corespund direct pregătirii mele experimentale."
-  },
-  {
-    "url": "https://www.iajob.ro/locuri-de-munca/443ol2",
-    "title": "Angajam Laborant / Operator Control Calitate",
-    "company": "IONUT&amp;MADA S.R.L.",
-    "location": [
-      "Bucuresti - Sector 3, Romania"
-    ],
-    "salary": null,
-    "date": "2026-08-21T09:09:49.995Z",
-    "status": "scraped",
-    "tags": [
-      "Echipamente laborator",
-      "Incertitudine"
-    ],
-    "matchPercentage": 72,
-    "reason": "Laborant/control calitate presupune măsurători precise, utilizarea echipamentelor de laborator și interpretarea rezultatelor cu estimarea incertitudinii - exact ce am exersat în laboratoarele de fizică."
-  },
-  {
-    "url": "https://www.iajob.ro/locuri-de-munca/t6jibj",
-    "title": "Recrutam laborant - firma de constructii",
-    "company": "GEORGIANA SRL",
-    "location": [
-      "Tulucesti, Romania"
-    ],
-    "salary": null,
-    "date": "2026-08-21T09:09:35.060Z",
-    "status": "scraped",
-    "tags": [
-      "Caracterizarea materialelor",
       "Analiza datelor"
     ],
-    "matchPercentage": 65,
-    "reason": "Laborator de încercări pentru materiale de construcții: caracterizarea proprietăților materialelor și analiza datelor experimentale se transferă direct din pregătirea mea."
-  },
-  {
-    "url": "https://www.iajob.ro/locuri-de-munca/5qg3un",
-    "title": "Angajam laborant | Companie de constructii civile si industriale",
-    "company": "IONUT&amp;MADA S.R.L.",
-    "location": [
-      "Galati, Romania"
-    ],
-    "salary": null,
-    "date": "2026-08-21T09:09:24.935Z",
-    "status": "scraped",
-    "tags": [
-      "Caracterizarea materialelor",
-      "Măsurători"
-    ],
-    "matchPercentage": 65,
-    "reason": "Testări de materiale în laborator: măsurători, interpretarea curbelor și redactarea rapoartelor de încercări folosesc competențele mele experimentale."
-  },
-  {
-    "url": "https://www.iajob.ro/locuri-de-munca/t3c0ko",
-    "title": "Angajam laborant | Companie de constructii civile si industriale",
-    "company": "IONUT&amp;MADA S.R.L.",
-    "location": [
-      "Galati, Romania"
-    ],
-    "salary": null,
-    "date": "2026-08-21T09:09:23.694Z",
-    "status": "scraped",
-    "tags": [
-      "Caracterizarea materialelor",
-      "Măsurători"
-    ],
-    "matchPercentage": 65,
-    "reason": "Anunț duplicat pentru laborant în construcții, la fel de potrivit datorită experienței mele de caracterizare și analiză a materialelor."
-  },
-  {
-    "url": "https://www.iajob.ro/locuri-de-munca/d1z1y2",
-    "title": "Angajam Laborant / Operator Control Calitate",
-    "company": "IONUT&amp;MADA S.R.L.",
-    "location": [
-      "Bucuresti - Sector 3, Romania"
-    ],
-    "salary": null,
-    "date": "2026-08-21T09:09:20.131Z",
-    "status": "scraped",
-    "tags": [
-      "Echipamente laborator",
-      "Incertitudine"
-    ],
-    "matchPercentage": 72,
-    "reason": "Anunț duplicat pentru laborant/control calitate: munca de laborator riguroasă și evaluarea incertitudinii măsurătorilor sunt punctele mele forte."
-  },
-  {
-    "url": "https://www.bestjobs.eu/loc-de-munca/laborant-determinari-fizico-mecanice-17",
-    "title": "Laborant determinari fizico-mecanice",
-    "company": "PATRU MAINI CARPATIA SRL",
-    "location": [
-      "Strada Conului, Ploiesti, Romania"
-    ],
-    "salary": null,
-    "date": "2026-08-21T09:09:16.632Z",
-    "status": "scraped",
-    "tags": [
-      "Măsurători de laborator",
-      "Incertitudine experimentală"
-    ],
-    "matchPercentage": 75,
-    "reason": "Încercările fizico-mecanice presupun măsurători precise și evaluarea incertitudinii, competențe dobândite în laboratoarele de fizică."
-  },
-  {
-    "url": "https://multijobs.ro/job/laborant/1996",
-    "title": "Laborant",
-    "company": "TODAY WORKFORCE S.R.L.",
-    "location": [
-      "Sfantu  Gheorghe, Romania"
-    ],
-    "salary": null,
-    "date": "2026-08-21T09:08:39.393Z",
-    "status": "scraped",
-    "tags": [
-      "Măsurători de laborator",
-      "Analiza datelor"
-    ],
-    "matchPercentage": 60,
-    "reason": "Rolul generalist de laborator valorifică experiența cu echipamentele de măsură și prelucrarea datelor experimentale, deși domeniul exact nu e precizat."
-  },
-  {
-    "url": "https://oferimdemunca.ro/job/laborant-in-constructii-galati/",
-    "title": "Laborant in constructii/ Galati",
-    "company": "SMART OUTSOURCING SERVICES S.R.L.",
-    "location": [
-      "Galaţi, Romania"
-    ],
-    "salary": null,
-    "date": "2026-08-21T09:05:54.537Z",
-    "status": "scraped",
-    "tags": [
-      "Măsurători de laborator",
-      "Caracterizarea materialelor"
-    ],
     "matchPercentage": 55,
-    "reason": "Testarea materialelor de construcții implică măsurători fizice riguroase, dar domeniul construcțiilor e departe de specializarea mea în materia condensată."
+    "reason": "Prelucrarea și validarea datelor valorifică atenția la detalii și competențele de analiză și sinteză a datelor."
   },
   {
-    "url": "https://www.iajob.ro/locuri-de-munca/pkkemt",
-    "title": "Angajam laborant | Companie de constructii civile si industriale",
-    "company": "IONUT&amp;MADA S.R.L.",
-    "location": [
-      "Galati, Romania"
-    ],
-    "salary": null,
-    "date": "2026-08-21T09:05:46.062Z",
-    "status": "scraped",
-    "tags": [
-      "Măsurători de laborator",
-      "Caracterizarea materialelor"
-    ],
-    "matchPercentage": 55,
-    "reason": "Testarea materialelor de construcții implică măsurători fizice riguroase, dar domeniul construcțiilor e departe de specializarea mea în materia condensată."
-  },
-  {
-    "url": "https://mediere.anofm.ro/app/module/mediere/job/3341892",
-    "title": "LABORANT DETERMINARI FIZICO-MECANICE",
+    "url": "https://mediere.anofm.ro/app/module/mediere/job/3341904",
+    "title": "CONTROLOR CALITATE PENTRU EXECUTIA ELEMENTELOR LA ARMAMENT SI MUNITIE",
     "company": "COMPANIA NATIONALA ROMARM S.A. FILIALA SOCIETATEA METROM S.A.",
     "location": [
       "Brașov, Romania"
     ],
     "salary": null,
-    "date": "2026-08-21T09:05:31.363Z",
+    "date": "2026-08-23T08:58:27.149Z",
     "status": "scraped",
     "tags": [
-      "Măsurători de laborator",
-      "Incertitudine experimentală"
+      "Evaluarea incertitudinii",
+      "Echipamente de laborator"
+    ],
+    "matchPercentage": 62,
+    "reason": "Controlul calității presupune măsurători precise, interpretarea rezultatelor și evaluarea incertitudinii, competențe dezvoltate în laboratoarele de fizică."
+  },
+  {
+    "url": "https://mediere.anofm.ro/app/module/mediere/job/3343099",
+    "title": "OPERATOR INTRODUCERE, VALIDARE SI PRELUCRARE DATE",
+    "company": "A&amp;A EVENTS DUO 93 S.R.L.",
+    "location": [
+      "Giurgiu, Romania"
+    ],
+    "salary": null,
+    "date": "2026-08-23T08:58:23.618Z",
+    "status": "scraped",
+    "tags": [
+      "Analiză de date",
+      "Informatică"
+    ],
+    "matchPercentage": 48,
+    "reason": "Accesibil datorită abilităților de lucru cu date și informatică, dar sub nivelul de calificare și fără perspectivă în domeniile vizate."
+  },
+  {
+    "url": "https://www.bestjobs.eu/loc-de-munca/operator-introducere-si-validare-date-238",
+    "title": "OPERATOR INTRODUCERE SI VALIDARE DATE",
+    "company": "CORLAN TRANS SRL",
+    "location": [
+      "Strada Ovidiu Cotrus, nr. 21A,  Timișoara, Romania"
+    ],
+    "salary": null,
+    "date": "2026-08-23T08:58:20.877Z",
+    "status": "scraped",
+    "tags": [
+      "Analiză de date",
+      "Informatică"
+    ],
+    "matchPercentage": 48,
+    "reason": "Introducerea și validarea datelor se bazează pe atenție și competențe digitale dobândite în timpul studiilor, deși rolul este sub calificare."
+  },
+  {
+    "url": "https://jobviewtrack.com/v2/lSIRbLTPbtYxg7HC84IrXSaIliiN_9RZL_2_b7BF8CF2O0NYQY6fdyYeM4a8AHvoTEYzw286Auye9mUJjBbU_JS-PMiH49p23tZ-oSXJz_5rQdvTHWySm6Z1am3MOC8Q3XhasmP_ZylMDB1-BskdNZBCSTzinYTEM4mCFdWEkvaFbeADs6ZqjWm71XgtyF_kTGmeUcRQ6DAVh7YMDqiOA6TrSMs0hgmSGDUghSyGhOg",
+    "title": "Controlor Calitate (m/f/d)",
+    "company": "LINDE GAZ ROMANIA SRL",
+    "location": [
+      "Galati, Romania"
+    ],
+    "salary": null,
+    "date": "2026-08-23T08:58:34.162Z",
+    "status": "scraped",
+    "tags": [
+      "Evaluarea incertitudinii",
+      "Echipamente de laborator"
     ],
     "matchPercentage": 70,
-    "reason": "Determinările fizico-mecanice în industria de apărare valorifică direct pregătirea mea experimentală: măsurători, incertitudine, interpretarea rezultatelor."
+    "reason": "Industrie de gaze tehnice unde controlul calității cere măsurări metrologice, interpretarea datelor și evaluarea incertitudinii exact ca în laboratoarele de fizică."
+  },
+  {
+    "url": "https://jobviewtrack.com/v2/PF6hOAAuT2rLu131h57YwXUkgALagUZgXo1bNrPY-feYeNSE9nbzwtHyafnqYKjG83xr-ATRavS6mrXhmTmAw0n1HdI21EgB5-sIufrEU9vqk0GlFlzuLHJrC9tUDX_BKSNikMLeku4waY6jgkfpt7_mX-SDLwDA4o_-qrE_rgv3s88SiUGvptXOIfX1zW15hEH1UpY_ESobQnw8PTRNx3ix2QzWRQDvjEfR7CU3igQ",
+    "title": "Controlor Calitate (m/f/d)",
+    "company": "LINDE GAZ ROMANIA SRL",
+    "location": [
+      "Otelu Rosu, Caras-Severin, Romania"
+    ],
+    "salary": null,
+    "date": "2026-08-23T08:58:34.162Z",
+    "status": "scraped",
+    "tags": [
+      "Evaluarea incertitudinii",
+      "Analiza datelor"
+    ],
+    "matchPercentage": 70,
+    "reason": "Aceleași cerințe de măsurare, verificare a conformității și analiză a datelor experimentale, perfect acoperite de pregătirea de fizică experimentală."
+  },
+  {
+    "url": "https://www.leoni.ro/en/jobs-portal/detail/senior-expert-ultrasonic-welding-m-f-d-sr744000137106200",
+    "title": "Senior Expert - Ultrasonic Welding (m/f/d)",
+    "company": "LEONI TEAM SRL",
+    "location": [
+      "Arad, Romania"
+    ],
+    "salary": null,
+    "date": "2026-08-23T08:58:13.479Z",
+    "status": "scraped",
+    "tags": [
+      "Stiinta materialelor",
+      "Experimente independente"
+    ],
+    "matchPercentage": 55,
+    "reason": "Sudarea ultrasonică implică fizica oscilațiilor, materiale și caracterizare, domenii familiare, însă poziția de Senior Expert cere experiență industrială pe care încă nu o am."
+  },
+  {
+    "url": "https://www.mynextjob.ro/loc-de-munca/technical-writer-m-f-d-fix-term-contract-9-months-possibly-more-1790116",
+    "title": "Technical Writer (m/f/d) - Fix Term Contract (9 months) – possibly more",
+    "company": "MATRIX42 SOFTWARE ENGINEERING ROMANIA S.R.L.",
+    "location": [
+      "Bucuresti, Romania"
+    ],
+    "salary": null,
+    "date": "2026-08-23T08:57:48.515Z",
+    "status": "scraped",
+    "tags": [
+      "Redactare științifică",
+      "Comunicare"
+    ],
+    "matchPercentage": 63,
+    "reason": "Redactarea documentației tehnice valorifică experiența de scriere de lucrări științifice și comunicarea clară a ideilor complexe, inclusiv într-o limbă internațională."
+  },
+  {
+    "url": "https://www.iajob.ro/locuri-de-munca/tokf0p",
+    "title": "Laborant chimist",
+    "company": "GEORGIANA SRL",
+    "location": [
+      "Bucuresti - Sector 3, Romania"
+    ],
+    "salary": null,
+    "date": "2026-08-23T08:58:34.162Z",
+    "status": "scraped",
+    "tags": [
+      "Echipamente de laborator",
+      "Experimente independente"
+    ],
+    "matchPercentage": 58,
+    "reason": "Lucrul în laborator cu echipamente de analiză și interpretarea rezultatelor se transferă direct din fizica experimentală, chiar dacă dominanta este chimia."
+  },
+  {
+    "url": "https://www.teamland.ro/apply.php?id=1376#content",
+    "title": "Laborant stație betoane",
+    "company": "TEAMLAND SRL",
+    "location": [
+      "Constanta, Romania"
+    ],
+    "salary": null,
+    "date": "2026-08-23T08:58:28.538Z",
+    "status": "scraped",
+    "tags": [
+      "Caracterizarea materialelor",
+      "Evaluarea incertitudinii"
+    ],
+    "matchPercentage": 57,
+    "reason": "Testarea proprietăților materialelor de construcție folosește metode de măsurare, caracterizare și evaluare a incertitudinii din fizica stării solide."
+  },
+  {
+    "url": "https://www.iajob.ro/locuri-de-munca/aa1vgz",
+    "title": "Angajam laborant | Companie de constructii civile si industriale",
+    "company": "IONUT&amp;MADA S.R.L.",
+    "location": [
+      "Tulucesti, Romania"
+    ],
+    "salary": null,
+    "date": "2026-08-23T08:57:39.618Z",
+    "status": "scraped",
+    "tags": [
+      "Caracterizarea materialelor",
+      "Analiza datelor"
+    ],
+    "matchPercentage": 55,
+    "reason": "Laborator de construcții cere măsurări corecte, prelucrarea datelor experimentale și raportarea lor, competențe dobândite în laboratoarele de fizică."
   }
 ]
