@@ -1,292 +1,155 @@
 [
   {
-    "url": "https://jobs.continental.com/en/detail-page/job-detail/REF39805I-p-b2ed6067500789f6a582b07be865c421/engineering-internship-8h-tires",
-    "title": "Engineering Internship (8h) - Tires",
+    "url": "https://www.teamland.ro/apply.php?id=986#content",
+    "title": "Internship inginer electric",
+    "company": "TEAMLAND SRL",
+    "location": [
+      "Bucuresti, Romania"
+    ],
+    "salary": null,
+    "date": "2026-09-13T13:15:12.608Z",
+    "status": "scraped",
+    "tags": [
+      "Magnetism",
+      "Echipamente laborator"
+    ],
+    "matchPercentage": 35,
+    "reason": "O parte din cunostintele de fizica (electricitate, magnetism) sunt relevante, dar rolul necesita competente specifice de inginerie electrica pe care studentul nu le detine explicit"
+  },
+  {
+    "url": "https://www.teamland.ro/apply.php?id=983#content",
+    "title": "Internship inginer productie",
+    "company": "TEAMLAND SRL",
+    "location": [
+      "Bucuresti, Romania"
+    ],
+    "salary": null,
+    "date": "2026-09-13T13:15:12.608Z",
+    "status": "scraped",
+    "tags": [
+      "Materiale avansate",
+      "Echipamente laborator"
+    ],
+    "matchPercentage": 25,
+    "reason": "Competentele de laborator si caracterizarea materialelor pot fi utile in productie, dar rolul presupune cunostinte de inginerie de productie absent din pregatire"
+  },
+  {
+    "url": "https://jobs.continental.com/en/detail-page/job-detail/REF96780V-p-4c58e857334dde0d15a6d84978a08998/internship---infrastructure-application-management-ctbc",
+    "title": "Internship – Infrastructure Application Management - CTBC",
     "company": "KALIBEN CONTINENTAL S.R.L.",
     "location": [
       "Timișoara, Romania"
     ],
     "salary": null,
-    "date": "2026-09-06T12:02:55.867Z",
+    "date": "2026-09-13T13:14:07.449Z",
     "status": "scraped",
     "tags": [
-      "Materials Science",
-      "Experimental Skills"
+      "Algebra computationala",
+      "Analiza date"
     ],
-    "matchPercentage": 40,
-    "reason": "Engineering role in tire materials; could leverage materials science and experimental skills"
+    "matchPercentage": 30,
+    "reason": "Aplicarea algebrei in informatica si gandirea computationala sunt utile pentru IT infrastructure, dar lipsesc cunostinte specifice de IT"
   },
   {
-    "url": "https://www.teamland.ro/apply.php?id=686#content",
-    "title": "Internship Inginer Mentenanta",
+    "url": "https://jobs.schaeffler.com/job/Brasov-Internship-IT-Service-Solutions-507075/1423482033/",
+    "title": "Internship IT Service Solutions",
+    "company": "SCHAEFFLER ROMANIA SRL",
+    "location": [
+      "Brașov, Romania"
+    ],
+    "salary": null,
+    "date": "2026-09-13T13:12:51.163Z",
+    "status": "scraped",
+    "tags": [
+      "Algebra computationala",
+      "Gandire critica"
+    ],
+    "matchPercentage": 30,
+    "reason": "Competentele de algebra computaționala si gandire algoritmica pot fi relevante pentru IT, dar lipsesc cunostinte de programare specifice"
+  },
+  {
+    "url": "https://www.teamland.ro/apply.php?id=1240#content",
+    "title": "Internship inginer electric",
     "company": "TEAMLAND SRL",
     "location": [
       "Bucuresti, Romania"
     ],
     "salary": null,
-    "date": "2026-09-06T12:02:13.292Z",
-    "status": "scraped",
-    "tags": [
-      "Experimental Skills",
-      "Problem Solving"
-    ],
-    "matchPercentage": 35,
-    "reason": "Maintenance engineering uses experimental and analytical skills from physics"
-  },
-  {
-    "url": "https://www.teamland.ro/apply.php?id=685#content",
-    "title": "Internship Inginer Electric",
-    "company": "TEAMLAND SRL",
-    "location": [
-      "Bucuresti, Romania"
-    ],
-    "salary": null,
-    "date": "2026-09-06T12:02:13.292Z",
+    "date": "2026-09-13T13:12:10.959Z",
     "status": "scraped",
     "tags": [
       "Magnetism",
-      "Electronics"
+      "Echipamente laborator"
     ],
-    "matchPercentage": 45,
-    "reason": "Electrical engineering aligns with physics background; magnetism, electronics knowledge applicable"
+    "matchPercentage": 35,
+    "reason": "Aceeasi oportunitate ca jobul 1, fizicianul are cunostinte de electricitate si magnetism relevante"
   },
   {
-    "url": "https://www.teamland.ro/apply.php?id=680#content",
-    "title": "Internship Inginer Productie",
+    "url": "https://www.teamland.ro/apply.php?id=962#content",
+    "title": "SAP SD Consultant junior",
     "company": "TEAMLAND SRL",
     "location": [
       "Bucuresti, Romania"
     ],
     "salary": null,
-    "date": "2026-09-06T12:02:13.292Z",
+    "date": "2026-09-13T13:15:12.608Z",
     "status": "scraped",
     "tags": [
-      "Problem Solving",
-      "Experimental Skills"
-    ],
-    "matchPercentage": 35,
-    "reason": "Production engineering; analytical and experimental skills transferable"
-  },
-  {
-    "url": "https://jobs.bosch.com/en/job/REF279971S-internship-program",
-    "title": "Internship Program",
-    "company": "BOSCH + WAGNER INTERNATIONAL ENGINEERING SRL",
-    "location": [
-      "Timișoara, Romania"
-    ],
-    "salary": null,
-    "date": "2026-09-06T12:01:31.849Z",
-    "status": "scraped",
-    "tags": [
-      "Engineering",
-      "Problem Solving"
-    ],
-    "matchPercentage": 40,
-    "reason": "Engineering internship; Bosch works in automotive/industrial tech where physics knowledge is valued"
-  },
-  {
-    "url": "https://careers.db.com/professionals/search-roles/#/professional/job/68810",
-    "title": "Code First Girls Programme - Junior Python Developer",
-    "company": "DEUTSCHE BAHN CARGO ROMANIA S.R.L.",
-    "location": [
-      "Bucuresti, Romania"
-    ],
-    "salary": null,
-    "date": "2026-09-06T12:03:56.460Z",
-    "status": "scraped",
-    "tags": [
-      "Computational Algebra",
-      "Data Analysis"
-    ],
-    "matchPercentage": 30,
-    "reason": "Python development; computational algebra and data analysis skills transferable"
-  },
-  {
-    "url": "https://careers.db.com/professionals/search-roles/#/professional/job/68748",
-    "title": "Code First Girls Programme - Junior Java Developer",
-    "company": "DEUTSCHE BAHN CARGO ROMANIA S.R.L.",
-    "location": [
-      "Bucuresti, Romania"
-    ],
-    "salary": null,
-    "date": "2026-09-06T12:03:56.460Z",
-    "status": "scraped",
-    "tags": [
-      "Problem Solving",
-      "Computational Skills"
-    ],
-    "matchPercentage": 30,
-    "reason": "Java development; problem solving and computational skills from physics background"
-  },
-  {
-    "url": "https://www.netromsoftware.ro/Cariere/netrom-laboratory-junior-developer-timisoara/",
-    "title": "NetRom Laboratory – Junior developer",
-    "company": "NETROM COMUNICATII SRL",
-    "location": [
-      "Timișoara, Romania"
-    ],
-    "salary": null,
-    "date": "2026-09-06T12:03:38.529Z",
-    "status": "scraped",
-    "tags": [
-      "Computational Skills",
-      "Problem Solving"
-    ],
-    "matchPercentage": 30,
-    "reason": "Software development; computational and analytical skills from physics applicable"
-  },
-  {
-    "url": "https://career.luxoft.com/jobs/junior-test-engineer-25989",
-    "title": "Junior Test Engineer",
-    "company": "LUXOFT GLOBAL CONSULTING S.R.L.",
-    "location": [
-      "Bucuresti, Romania"
-    ],
-    "salary": null,
-    "date": "2026-09-06T12:03:35.173Z",
-    "status": "scraped",
-    "tags": [
-      "Experimental Skills",
-      "Data Analysis"
-    ],
-    "matchPercentage": 50,
-    "reason": "Testing/engineering role; experimental methodology, data analysis, and instrumentation skills highly relevant"
-  },
-  {
-    "url": "https://jobs.worldline.com/job/Junior-Site-Reliability-Engineer-%281%2B-years%29/305143-en_US",
-    "title": "Junior Site Reliability Engineer (1+ years)",
-    "company": "WORLDLINE BUSINESS SERVICES ROMANIA S.R.L.",
-    "location": [
-      "Bucuresti, Romania"
-    ],
-    "salary": null,
-    "date": "2026-09-06T12:03:30.834Z",
-    "status": "scraped",
-    "tags": [
-      "Problem Solving",
-      "Computational Skills"
-    ],
-    "matchPercentage": 35,
-    "reason": "SRE/infrastructure role; analytical problem-solving and computational skills transferable"
-  },
-  {
-    "url": "https://careers.honeywell.com/en/sites/Honeywell/job/153839",
-    "title": "Operator Productie-SMT (Machine Operator - Level 3) (m/f/d)",
-    "company": "HONEYWELL ROMANIA SRL",
-    "location": [
-      "Lugoj, Romania"
-    ],
-    "salary": null,
-    "date": "2026-09-06T12:04:20.062Z",
-    "status": "scraped",
-    "tags": [
-      "Electronics",
-      "Experimental Skills"
-    ],
-    "matchPercentage": 30,
-    "reason": "Production operator in electronics manufacturing; electronics and experimental skills relevant"
-  },
-  {
-    "url": "https://jobs.keysight.com/external/jobs/53933",
-    "title": "Field Service Technician, Advanced Level",
-    "company": "KEYSIGHT TECHNOLOGIES RO SRL",
-    "location": [
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-09-06T12:03:01.060Z",
-    "status": "scraped",
-    "tags": [
-      "Echipamente laborator",
-      "Electronică"
-    ],
-    "matchPercentage": 40,
-    "reason": "Keysight produce echipamente de testare/măsurare electronică; cunoștințele de fizică și utilizarea echipamentelor de laborator sunt parțial relevante, dar rolul necesită mai mult experiență tehnică în electronică decât oferă planul de învățământ"
-  },
-  {
-    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000144086149",
-    "title": "Working Student Support for Production",
-    "company": "DEN BOSCH GROUP SRL",
-    "location": [
-      "Blaj, Romania"
-    ],
-    "salary": null,
-    "date": "2026-09-06T12:04:21.210Z",
-    "status": "scraped",
-    "tags": [
-      "Analiză date",
-      "Gândire critică"
-    ],
-    "matchPercentage": 30,
-    "reason": "Suport inginerilor în activități de producție; competențele de analiză de date și gândire critică pot fi utile, dar rolul este mai degrabă operațional"
-  },
-  {
-    "url": "https://wd3.myworkdaysite.com/en-US/recruiting/magna/Magna/job/Iasi-RO/Software-Developer---Student_R00259065",
-    "title": "Software Developer - Student",
-    "company": "MAGNA ELECTRONICS ROMANIA S.R.L.",
-    "location": [
-      "Iași, Romania"
-    ],
-    "salary": null,
-    "date": "2026-09-06T12:03:05.570Z",
-    "status": "scraped",
-    "tags": [
-      "Algebră computațională",
-      "Modelare matematică"
-    ],
-    "matchPercentage": 25,
-    "reason": "Rol de student în dezvoltare software; cunoștințele de algebră computațională (GAP) și modelare matematică oferă o bază, dar lipsesc competențele de programare software"
-  },
-  {
-    "url": "https://wd3.myworkdaysite.com/en-US/recruiting/magna/Magna/job/Iasi-RO/Software-Tester---Student_R00259063",
-    "title": "Software Tester - Student",
-    "company": "MAGNA ELECTRONICS ROMANIA S.R.L.",
-    "location": [
-      "Iași, Romania"
-    ],
-    "salary": null,
-    "date": "2026-09-06T12:03:05.570Z",
-    "status": "scraped",
-    "tags": [
-      "Gândire critică",
-      "Analiză de date"
+      "Gandire critica",
+      "Algebra computationala"
     ],
     "matchPercentage": 20,
-    "reason": "Testare software pentru sisteme automotive; gândirea logică și analiza de date sunt transferabile, dar rolul necesită cunoștințe specifice de testare"
+    "reason": "Competentele de gandire logica si algebra computationala pot fi utile pentru SAP, dar lipsesc cunostinte specifice"
   },
   {
-    "url": "https://wd3.myworkdaysite.com/en-US/recruiting/magna/Magna/job/Timisoara-RO/Algorithm-Developer---Student_R00259064",
-    "title": "Algorithm Developer - Student",
-    "company": "MAGNA ELECTRONICS ROMANIA S.R.L.",
+    "url": "https://atek.ro/apply-java-junior.html",
+    "title": "Junior Java Developer",
+    "company": "ATEK SOFTWARE SRL",
     "location": [
-      "Timișoara, Romania"
+      "Iași,Botoșani, Romania"
     ],
     "salary": null,
-    "date": "2026-09-06T12:03:05.570Z",
+    "date": "2026-09-13T13:14:49.549Z",
     "status": "scraped",
     "tags": [
-      "Algebra liniară",
-      "Modelare matematică"
+      "Algebra computationala",
+      "Gandire critica"
     ],
-    "matchPercentage": 55,
-    "reason": "Dezvoltare de algoritmi pentru sisteme automotive; algebra liniară, analiza matematică și modelarea matematică sunt competențe direct transferabile pentru dezvoltarea algoritmilor"
+    "matchPercentage": 35,
+    "reason": "Algebra computaționala si gandirea algoritmica sunt transferabile la programare, dar lipsesc cunostinte de Java/specifice"
   },
   {
-    "url": "https://jobs.bosch.com/en/job/REF289126L-working-student-manufacturing-engineering-support",
-    "title": "Working Student – Manufacturing Engineering Support",
+    "url": "https://www.leohr.ro/jobs/sap-logistics-primary-support-level-1/261/",
+    "title": "SAP Logistics Primary Support - Level 1",
+    "company": "LEOHR S.R.L.",
+    "location": [
+      "Bucuresti, Romania"
+    ],
+    "salary": null,
+    "date": "2026-09-13T13:15:36.819Z",
+    "status": "scraped",
+    "tags": [
+      "Gandire critica",
+      "Analiza date"
+    ],
+    "matchPercentage": 20,
+    "reason": "Suport tehnic IT in logistica, gandirea logica si capacitatea de analiza pot fi utile dar lipsesc cunostinte SAP"
+  },
+  {
+    "url": "https://jobs.bosch.com/en/job/REF295535W-working-student-in-data-analysis-and-logistics-support",
+    "title": "Working Student in Data Analysis and Logistics Support",
     "company": "BOSCH + WAGNER INTERNATIONAL ENGINEERING SRL",
     "location": [
       "Jucu, Romania"
     ],
     "salary": null,
-    "date": "2026-09-06T12:03:05.570Z",
+    "date": "2026-09-13T13:15:15.241Z",
     "status": "scraped",
     "tags": [
-      "Rezolvare probleme",
-      "Analiză de date"
+      "Analiză date"
     ],
-    "matchPercentage": 25,
-    "reason": "Suport în ingineria de producție; competențele de analiză și rezolvare de probleme sunt utile, dar rolul este mai degrabă operațional"
+    "matchPercentage": 40,
+    "reason": "Analiză de date în logistică, folosește competențe de analiză"
   },
   {
     "url": "https://jobs.smartrecruiters.com/BoschGroup/744000147189629",
@@ -296,65 +159,45 @@
       "Jucu, Romania"
     ],
     "salary": null,
-    "date": "2026-09-06T12:03:03.646Z",
+    "date": "2026-09-13T13:15:15.241Z",
     "status": "scraped",
     "tags": [
-      "Analiză de date",
-      "Modelare matematică"
-    ],
-    "matchPercentage": 35,
-    "reason": "Analiză de date și suport logistic; competențele de analiză matematică, modelare și gândire critică sunt direct relevante pentru analiza datelor"
-  },
-  {
-    "url": "https://jobs.bosch.com/en/job/REF294899R-working-student-in-software-development-for-automotive-steering",
-    "title": "Working Student in Software Development for Automotive Steering",
-    "company": "BOSCH + WAGNER INTERNATIONAL ENGINEERING SRL",
-    "location": [
-      "Cluj-Napoca, Romania"
-    ],
-    "salary": null,
-    "date": "2026-09-06T12:02:15.841Z",
-    "status": "scraped",
-    "tags": [
-      "Algebră computațională",
-      "Modelare matematică"
-    ],
-    "matchPercentage": 25,
-    "reason": "Dezvoltare software automotive; cunoștințele de algebră computațională și modelare matematică pot fi un punct de plecare, dar lipsesc competențele de programare"
-  },
-  {
-    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000137398049",
-    "title": "Working Student - 3D Printing",
-    "company": "DEN BOSCH GROUP SRL",
-    "location": [
-      "Blaj, Romania"
-    ],
-    "salary": null,
-    "date": "2026-09-06T12:02:14.734Z",
-    "status": "scraped",
-    "tags": [
-      "Fizica materialelor",
-      "Laborator"
+      "Analiză date"
     ],
     "matchPercentage": 40,
-    "reason": "Imprimare 3D și prelucrare CAD; fizica materialelor, caracterizarea materialelor și cunoștințele de laborator sunt direct relevante pentru înțelegerea tehnologiilor de tipărire și a proprietăților materialelor"
+    "reason": "Analiză date și raportare, transferabil"
   },
   {
-    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000143555199",
-    "title": "Working Student Mechanical Field",
-    "company": "DEN BOSCH GROUP SRL",
+    "url": "https://jobs.bosch.com/en/job/REF296085R-working-student-production-digitalization",
+    "title": "Working Student - Production Digitalization",
+    "company": "BOSCH + WAGNER INTERNATIONAL ENGINEERING SRL",
     "location": [
       "Blaj, Romania"
     ],
     "salary": null,
-    "date": "2026-09-06T12:01:44.475Z",
+    "date": "2026-09-13T13:15:14.039Z",
     "status": "scraped",
     "tags": [
-      "Analiză de date",
-      "Gândire critică"
+      "Modelare"
     ],
-    "matchPercentage": 20,
-    "reason": "Culegere și analiză de date din producție; competențele de analiză fizică și gândire critică sunt transferabile"
+    "matchPercentage": 35,
+    "reason": "Digitalizare producție, posibilă aplicare a modelării"
+  },
+  {
+    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000145917949",
+    "title": "Working Student Digitalization in Quality",
+    "company": "DEN BOSCH GROUP SRL",
+    "location": [
+      "Jucu, Romania"
+    ],
+    "salary": null,
+    "date": "2026-09-13T13:14:46.691Z",
+    "status": "scraped",
+    "tags": [
+      "Analiză date"
+    ],
+    "matchPercentage": 40,
+    "reason": "Digital transformation, analiză date, construire aplicații"
   },
   {
     "url": "https://www.bestjobs.eu/loc-de-munca/fizician-11",
@@ -367,11 +210,11 @@
     "date": "2026-09-05T11:47:02.137Z",
     "status": "scraped",
     "tags": [
-      "Fizician",
-      "Laborator"
+      "Fizică",
+      "Cercetare"
     ],
     "matchPercentage": 90,
-    "reason": "Poziție de fizician într-o companie; se potrivește direct cu profilul de absolvent de fizică, inclusiv competențe de laborator, caracterizarea materialelor și analiza datelor fizice"
+    "reason": "Poziție de fizician directă, potrivire excelentă cu profilul"
   },
   {
     "url": "https://jobviewtrack.com/v2/egep6ui1T24sU2tkpHKC2vTcoCrPVpjNxodFAxvwEyjB1_yl-2umfTHUOIwWqmygtjz1ds_zHtw1Hf234gdebPO_2FEyjT7ILOCut5Xwt758lnxDU3UfG8QMcEOkKhbyhfUXjCq69smlDVrvqCVJTritc0PVqH_eRoR9PPeSwqll2FG3EqvVAnb-2WU8To2XpjbB1vFixAULy6UQIWUGmc6S_BC-ybM_56bq3cWMDM4",
@@ -384,11 +227,11 @@
     "date": "2026-09-02T12:51:04.167Z",
     "status": "scraped",
     "tags": [
-      "Fizică aplicată",
-      "Măsurări experimentale"
+      "Fizică",
+      "Medicină"
     ],
     "matchPercentage": 85,
-    "reason": "Fizician medical - rol direct în domeniul fizicii; necesită cunoștințe de fizică aplicată, radiații, instrumentație de măsură și analiza datelor experimentale"
+    "reason": "Fizician medical, se potrivește cu fizica stării solide și instrumentație"
   },
   {
     "url": "https://mediere.anofm.ro/app/module/mediere/job/3367272",
@@ -401,11 +244,11 @@
     "date": "2026-09-01T13:21:32.894Z",
     "status": "scraped",
     "tags": [
-      "Fizica stării solide",
-      "Laborator"
+      "Fizică",
+      "Medicină"
     ],
-    "matchPercentage": 70,
-    "reason": "Fizica medicală este o cale de carieră directă pentru absolvenții de fizică; lipsa descrierii reduce certitudinea"
+    "matchPercentage": 85,
+    "reason": "Fizician medical, potrivit pentru absolvent de fizică"
   },
   {
     "url": "https://www.leohr.ro/jobs/profesor-de-fizica-pentru-gimnaziu/141/",
@@ -415,14 +258,14 @@
       "Bucuresti, Romania"
     ],
     "salary": null,
-    "date": "2026-09-06T11:58:16.705Z",
+    "date": "2026-09-12T12:06:38.066Z",
     "status": "scraped",
     "tags": [
-      "Educație și predare",
-      "Comunicare științifică"
+      "Fizică",
+      "Comunicare"
     ],
-    "matchPercentage": 90,
-    "reason": "Predarea fizicii se potrivește perfect cu domeniul Educație și predare și cu comunicarea științifică"
+    "matchPercentage": 70,
+    "reason": "Studii de fizică + comunicare științifică, dar lipsa experienței pedagogice formale și a calificării didactice reduce potrivirea"
   },
   {
     "url": "https://mediere.anofm.ro/app/module/mediere/job/3329212",
@@ -435,78 +278,230 @@
     "date": "2026-09-05T12:00:15.525Z",
     "status": "scraped",
     "tags": [
-      "Electronică aplicată",
-      "Cercetare R&D"
-    ],
-    "matchPercentage": 85,
-    "reason": "Cercetare în electronică aplicată la un leader industrial; se potrivește cu domeniul Industrie (electronică) și competențele de laborator și cercetare"
-  },
-  {
-    "url": "https://jobs.zollner.ro/jobposting/95916f58bf3e531a88a585e8677612ef4bfccd6f0",
-    "title": "Inginer de proces",
-    "company": "ZES ZOLLNER ELECTRONIC SRL",
-    "location": [
-      "Satu Mare, Romania"
-    ],
-    "salary": null,
-    "date": "2026-09-06T12:04:15.634Z",
-    "status": "scraped",
-    "tags": [
-      "Electronică",
-      "Știința materialelor"
+      "Cercetare R&D",
+      "Materiale"
     ],
     "matchPercentage": 55,
-    "reason": "Inginerie de proces în electronică (EMS); cunoștințele de electronică și materiale sunt relevante, dar se cere experiență"
+    "reason": "Rol de cercetare în electronică la o companie tech; fizica materialelor și cunoștințele de laborator sunt parțial relevante, dar lipsesc cunoștințele specifice de electronică"
   },
   {
-    "url": "https://jobs.zollner.ro/jobposting/b6b83168c8d191aadedc69f020f5f0c82e6df9ee0",
-    "title": "Inginer sisteme de testare",
-    "company": "ZES ZOLLNER ELECTRONIC SRL",
-    "location": [
-      "Satu Mare, Romania"
-    ],
-    "salary": null,
-    "date": "2026-09-06T12:04:15.634Z",
-    "status": "scraped",
-    "tags": [
-      "Măsurare date",
-      "Electronică"
-    ],
-    "matchPercentage": 50,
-    "reason": "Testare sisteme electronice; măsurarea și interpretarea datelor sunt competențe transferabile, dar e un rol de inginer cu experiență"
-  },
-  {
-    "url": "https://jobboerse.strabag.at/job-detail.php?ReqId=req78875&amp;language=RO&amp;source=",
-    "title": "Inginer laborator de constructii",
-    "company": "STRABAG SRL",
-    "location": [
-      "Jilava,Ilfov, Romania"
-    ],
-    "salary": null,
-    "date": "2026-09-06T12:03:38.029Z",
-    "status": "scraped",
-    "tags": [
-      "Caracterizare materiale",
-      "Laborator"
-    ],
-    "matchPercentage": 40,
-    "reason": "Laborator de construcții — testarea materialelor se potrivește tangențial cu competențele de preparare/caracterizare materiale și echipamente de laborator"
-  },
-  {
-    "url": "https://www.teamland.ro/apply.php?id=1311#content",
-    "title": "Inginer automatist",
-    "company": "TEAMLAND SRL",
+    "url": "https://jobs.siemens-energy.com/en_US/jobs/FolderDetail/Experienced-AI-ML-Engineer-f-m-d/281752",
+    "title": "Experienced AI/ML Engineer (f/m/d)",
+    "company": "SIEMENS ENERGY AUSTRIA GMBH VIENA SUCURSALA BUCURESTI",
     "location": [
       "Bucuresti, Romania"
     ],
     "salary": null,
-    "date": "2026-09-06T12:03:33.230Z",
+    "date": "2026-09-13T13:15:44.512Z",
     "status": "scraped",
     "tags": [
       "Modelare matematică",
-      "Electronică"
+      "Analiză de date"
+    ],
+    "matchPercentage": 45,
+    "reason": "Rolul de AI/ML Engineer la o companie energetică poate folosi modelarea matematică și analiza de date, dar necesită experiență ML specifică pe care un student nu o are"
+  },
+  {
+    "url": "https://job-boards.greenhouse.io/awin/jobs/7891441003",
+    "title": "Senior Product Analyst (f/m/d)",
+    "company": "AWIN ROMANIA S.R.L.",
+    "location": [
+      "Iași, Romania"
+    ],
+    "salary": null,
+    "date": "2026-09-13T13:15:38.517Z",
+    "status": "scraped",
+    "tags": [
+      "Analiză de date",
+      "Gândire critică"
+    ],
+    "matchPercentage": 40,
+    "reason": "Analiză cantitativă de date produs, folosește gândire analitică și statistică dar e un rol de produs digital, nu fizică"
+  },
+  {
+    "url": "https://eu.rsystems.com/c-plus-plus-engineer-id-15022/",
+    "title": "C++ Engineer",
+    "company": "R SYSTEMS COMPUTARIS EUROPE S.R.L.",
+    "location": [
+      "Bucuresti, Romania"
+    ],
+    "salary": null,
+    "date": "2026-09-13T13:15:08.732Z",
+    "status": "scraped",
+    "tags": [
+      "Algebră computațională",
+      "Programare"
     ],
     "matchPercentage": 35,
-    "reason": "Automatică presupune cunoștințe de electronică și modelare; competențele de analiză matematică și modelare pot fi relevante"
+    "reason": "Programare C++ poate fi relevantă pentru calcul computațional în fizică, dar e rol de inginerie software pură"
+  },
+  {
+    "url": "https://eu.rsystems.com/devops-engineer-python-id-15002/",
+    "title": "DevOps Engineer with Python",
+    "company": "R SYSTEMS COMPUTARIS EUROPE S.R.L.",
+    "location": [
+      "Bucuresti, Romania"
+    ],
+    "salary": null,
+    "date": "2026-09-13T13:15:08.732Z",
+    "status": "scraped",
+    "tags": [
+      "Programare",
+      "Analiză de date"
+    ],
+    "matchPercentage": 35,
+    "reason": "DevOps cu Python poate folosi abilități de scripting și automatizare, transferabile din cercetare"
+  },
+  {
+    "url": "https://www.teamland.ro/apply.php?id=965#content",
+    "title": "Laborant determinari fizico-mecanice",
+    "company": "TEAMLAND SRL",
+    "location": [
+      "Ploiesti, Romania"
+    ],
+    "salary": null,
+    "date": "2026-09-13T13:15:12.608Z",
+    "status": "scraped",
+    "tags": [
+      "Caracterizare materiale",
+      "Evaluarea incertitudinii"
+    ],
+    "matchPercentage": 85,
+    "reason": "Determinări fizico-mecanice - direct legat de competențele de laborator fizică, măsurători, caracterizare materiale și evaluarea incertitudinii"
+  },
+  {
+    "url": "https://jobboerse.strabag.at/job-detail.php?ReqId=req78847&amp;language=RO&amp;source=",
+    "title": "Tehnician / Laborant in constructii Buzau",
+    "company": "STRABAG SRL",
+    "location": [
+      "Buzau, Romania"
+    ],
+    "salary": null,
+    "date": "2026-09-13T13:12:38.950Z",
+    "status": "scraped",
+    "tags": [
+      "Evaluarea incertitudinii",
+      "Utilizare echipamente lab"
+    ],
+    "matchPercentage": 55,
+    "reason": "Laborant în construcții - testări fizico-mecanice pe materiale de construcții, folosește competențe de laborator și măsurători"
+  },
+  {
+    "url": "https://www.teamland.ro/apply.php?id=1246#content",
+    "title": "Laborant determinari fizico-mecanice",
+    "company": "TEAMLAND SRL",
+    "location": [
+      "Ploiesti, Romania"
+    ],
+    "salary": null,
+    "date": "2026-09-13T13:12:10.959Z",
+    "status": "scraped",
+    "tags": [
+      "Caracterizare materiale",
+      "Evaluarea incertitudinii"
+    ],
+    "matchPercentage": 85,
+    "reason": "Identic cu job 22 - determinări fizico-mecanice, potrivire directă cu profilul de fizică"
+  },
+  {
+    "url": "https://www.prohuman.ro/candidati/jobs/Laboratoryworker",
+    "title": "Laborant",
+    "company": "PROHUMAN APT S.R.L.",
+    "location": [
+      "Ploiești, Romania"
+    ],
+    "salary": null,
+    "date": "2026-09-13T13:12:10.021Z",
+    "status": "scraped",
+    "tags": [
+      "Utilizare echipamente lab",
+      "Caracterizare materiale"
+    ],
+    "matchPercentage": 60,
+    "reason": "Rol de laborant la Ploiești - probabil testări de materiale, folosește competențe de laborator și măsurători fizice"
+  },
+  {
+    "url": "https://jobs.smartrecruiters.com/SGS/744000126084800",
+    "title": "Laborant Chimist",
+    "company": "SGS - TIM SRL",
+    "location": [
+      "Constanta, Romania"
+    ],
+    "salary": null,
+    "date": "2026-09-13T13:09:15.285Z",
+    "status": "scraped",
+    "tags": [
+      "Echipamente laborator",
+      "Analiza date"
+    ],
+    "matchPercentage": 40,
+    "reason": "Efectueaza analize fizice (impuritati) si chimice; exista o suprapunere partiala cu competentele de laborant si analiza materialelor, dar domeniul este chimie industriala, nu fizica."
+  },
+  {
+    "url": "https://careers.bat.com/en/job/ploiesti/laborant-determinari-fizico-mecanice/1045/42154887104",
+    "title": "Laborant determinari fizico-mecanice",
+    "company": "BAT SRL",
+    "location": [
+      "Ploiesti, Romania"
+    ],
+    "salary": null,
+    "date": "2026-09-11T12:39:14.023Z",
+    "status": "scraped",
+    "tags": [
+      "Materiale avansate",
+      "Echipamente laborator"
+    ],
+    "matchPercentage": 70,
+    "reason": "Determinari fizico-mecanice pe materiale - suprapunere directa cu pregatirea in fizica starii solide, caracterizarea materialelor si masuratori experimentale."
+  },
+  {
+    "url": "https://alliancewd.wd3.myworkdayjobs.com/ro-RO/renault-group-careers/job/Bucuresti/XMLNAME--Internship--Procesarea--i-analiza-scanrilor-3D-utiliznd-FARO-SCENE--F-M-_JOBREQ_50274409",
+    "title": "(Internship) Procesarea și analiza scanărilor 3D utilizând FARO SCENE (F/M)",
+    "company": "RENAULT SRL",
+    "location": [
+      "Bucuresti, Romania"
+    ],
+    "salary": null,
+    "date": "2026-09-13T13:07:49.867Z",
+    "status": "scraped",
+    "tags": [
+      "Modelare matematica",
+      "Analiza date"
+    ],
+    "matchPercentage": 50,
+    "reason": "Procesare scanari 3D - implica analiza spatiala, modelare si interpretare de date, aliniate partial cu competentele de modelare matematica si analiza datelor fizice."
+  },
+  {
+    "url": "https://jobs.zollner.ro/jobposting/6bd7e63f427293ef9533d23fe04da92329321f9c0",
+    "title": "Șef birou compartiment analiză și reparații",
+    "company": "ZES ZOLLNER ELECTRONIC SRL",
+    "location": [
+      "Satu Mare, Romania"
+    ],
+    "salary": null,
+    "date": "2026-09-13T13:07:30.556Z",
+    "status": "scraped",
+    "tags": [
+      "Materiale avansate"
+    ],
+    "matchPercentage": 35,
+    "reason": "In electronica de productie; competentele de fizica si analiza materialelor ofera o baza partiala, dar rolul este de management tehnic."
+  },
+  {
+    "url": "https://careers.smartrecruiters.com/Ramboll3/jobs/744000043181265",
+    "title": "Inginer modelare hidraulica",
+    "company": "RAMBOLL SOUTH EAST EUROPE SRL",
+    "location": [
+      "București, Romania"
+    ],
+    "salary": null,
+    "date": "2026-09-13T13:14:49.549Z",
+    "status": "scraped",
+    "tags": [
+      "Modelare matematica",
+      "Analiza matematica"
+    ],
+    "matchPercentage": 55,
+    "reason": "Modelare hidraulica implica modelare matematica si simulare; competentele de analiza matematica si modelare formala sunt direct aplicabile."
   }
 ]
