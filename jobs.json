@@ -1,0 +1,36 @@
+[
+  {
+    "url": "https://mediere.anofm.ro/app/module/mediere/job/3383912",
+    "title": "INGINER DE CERCETARE ÎN CALCULATOARE",
+    "company": "INSTITUTUL NAŢIONAL DE CERCETARE-DEZVOLTARE ÎN SUDURĂ ŞI ÎNCERCĂRI DE MATERIALE - ISIM TIMIŞOARA",
+    "location": [
+      "Timișoara, Romania"
+    ],
+    "salary": null,
+    "date": "2026-09-30T15:56:11.025Z",
+    "status": "scraped",
+    "tags": [
+      "modelare computationala",
+      "analiza numerica"
+    ],
+    "matchPercentage": 68,
+    "reason": "Inginer de cercetare in calculatoare intr-un institut de cercetare a materialelor, cu nivel si experienta corespunzatoare, dar fara legatura directa cu caracterizarea magnetica sau supraconductivitatea."
+  },
+  {
+    "url": "https://www.bestjobs.eu/loc-de-munca/inginer-in-stiinta-materialelor-3",
+    "title": "Inginer in stiinta materialelor",
+    "company": "FORJA ROTEC SRL",
+    "location": [
+      "Ploiesti, Romania,Bucuresti, Romania,Buzau, Romania,Ramnicu Sarat, Romania,Braila, Romania,Galati, Romania"
+    ],
+    "salary": null,
+    "date": "2026-09-30T16:00:49.437Z",
+    "status": "scraped",
+    "tags": [
+      "fizica materialelor",
+      "caracterizare materiale"
+    ],
+    "matchPercentage": 65,
+    "reason": "Inginer în știința materialelor la o companie metalurgică, domeniu apropiat de fizica materialelor, fără precizări despre nivel sauResponsabilități specifice."
+  }
+]
