@@ -1,19 +1,19 @@
 [
   {
-    "url": "https://www.undelucram.ro/ro/locuri-de-munca/internship-for-rel-laboratory-iasi/100683",
-    "title": "Internship for REL Laboratory (Iasi)",
-    "company": "AUMOVIO TECHNOLOGIES ROMANIA S.R.L.",
+    "url": "https://mediere.anofm.ro/app/module/mediere/job/3394301",
+    "title": "ASISTENT DE CERCETARE ÎN ELECTRONICA APLICATA",
+    "company": "PECEF TEHNICA SRL",
     "location": [
-      "Iași, Romania"
+      "Cluj-napoca, Romania"
     ],
     "salary": null,
-    "date": "2026-10-03T13:22:44.308Z",
+    "date": "2026-10-04T13:43:57.256Z",
     "status": "scraped",
     "tags": [
-      "experiment",
-      "evaluarea incertitudinii"
+      "modelare computationala",
+      "caracterizare experimentala"
     ],
-    "matchPercentage": 63,
-    "reason": "Stagiu intr-un laborator de fiabilitate: manevrarea echipamentelor, efectuarea de teste conform standardelor si raportarea rezultatelor corespunde partial cercetarii experimentale."
+    "matchPercentage": 68,
+    "reason": "Cercetare aplicata in electronica, partial relevanta prin analiza numerica si caracterizare, dar cere doctorat."
   }
 ]
