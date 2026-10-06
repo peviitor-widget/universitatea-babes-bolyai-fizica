@@ -1,19 +1,36 @@
 [
   {
-    "url": "https://mediere.anofm.ro/app/module/mediere/job/3394301",
-    "title": "ASISTENT DE CERCETARE ÎN ELECTRONICA APLICATA",
-    "company": "PECEF TEHNICA SRL",
+    "url": "https://mediere.anofm.ro/app/module/mediere/job/3383017",
+    "title": "INGINER MECANIC",
+    "company": "INSTITUTUL NAŢIONAL DE CERCETARE-DEZVOLTARE ÎN SUDURĂ ŞI ÎNCERCĂRI DE MATERIALE - ISIM TIMIŞOARA",
     "location": [
-      "Cluj-napoca, Romania"
+      "Timișoara, Romania"
     ],
     "salary": null,
-    "date": "2026-10-04T13:43:57.256Z",
+    "date": "2026-10-05T17:06:53.167Z",
     "status": "scraped",
     "tags": [
-      "modelare computationala",
-      "caracterizare experimentala"
+      "caracterizare materiale",
+      "cercetare experimentală"
     ],
-    "matchPercentage": 68,
-    "reason": "Cercetare aplicata in electronica, partial relevanta prin analiza numerica si caracterizare, dar cere doctorat."
+    "matchPercentage": 62,
+    "reason": "Post entry-level (0 ani experienta) la un institut de cercetare in domeniul materialelor, unde profilul de caracterizare si evaluare experimentala poate fi valorificat, desi rolul e de inginerie mecanica."
+  },
+  {
+    "url": "https://mediere.anofm.ro/app/module/mediere/job/3383912",
+    "title": "INGINER DE CERCETARE ÎN CALCULATOARE",
+    "company": "INSTITUTUL NAŢIONAL DE CERCETARE-DEZVOLTARE ÎN SUDURĂ ŞI ÎNCERCĂRI DE MATERIALE - ISIM TIMIŞOARA",
+    "location": [
+      "Timișoara, Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-05T17:06:53.167Z",
+    "status": "scraped",
+    "tags": [
+      "analiza numerica",
+      "modelare matematica"
+    ],
+    "matchPercentage": 62,
+    "reason": "Inginer de cercetare in calculatoare la un institut de R&D, nivel entry, unde analiza numerica si modelarea computationala se potrivesc partial."
   }
 ]
