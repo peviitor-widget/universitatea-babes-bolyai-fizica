@@ -1,36 +1,36 @@
 [
   {
-    "url": "https://mediere.anofm.ro/app/module/mediere/job/3383017",
-    "title": "INGINER MECANIC",
-    "company": "INSTITUTUL NAŢIONAL DE CERCETARE-DEZVOLTARE ÎN SUDURĂ ŞI ÎNCERCĂRI DE MATERIALE - ISIM TIMIŞOARA",
+    "url": "https://multijobs.ro/job/asistent-de-cercetare-in-stiinta-materialelor/2860",
+    "title": "Asistent de cercetare in stiinta materialelor",
+    "company": "INSTITUTUL NATIONAL DE CERCETARE-DEZVOLTARE PENTRU TEXTILE SI PIELARIE-I.N.C.D.T.P. BUCURESTI SUCURSALA BUCURESTI INSTITUTUL DE CERCETARE PIELARIE - INCALTAMINTE I.C.P.I.",
     "location": [
-      "Timișoara, Romania"
+      "Bucuresti, Romania"
     ],
     "salary": null,
-    "date": "2026-10-05T17:06:53.167Z",
+    "date": "2026-10-06T14:59:51.964Z",
     "status": "scraped",
     "tags": [
-      "caracterizare materiale",
-      "cercetare experimentală"
+      "cercetare experimentala",
+      "caracterizare materiale"
     ],
-    "matchPercentage": 62,
-    "reason": "Post entry-level (0 ani experienta) la un institut de cercetare in domeniul materialelor, unde profilul de caracterizare si evaluare experimentala poate fi valorificat, desi rolul e de inginerie mecanica."
+    "matchPercentage": 80,
+    "reason": "Asistent de cercetare in stiinta materialelor, potrivit direct cu experimentarea si caracterizarea materialelor, la nivel entry."
   },
   {
-    "url": "https://mediere.anofm.ro/app/module/mediere/job/3383912",
-    "title": "INGINER DE CERCETARE ÎN CALCULATOARE",
-    "company": "INSTITUTUL NAŢIONAL DE CERCETARE-DEZVOLTARE ÎN SUDURĂ ŞI ÎNCERCĂRI DE MATERIALE - ISIM TIMIŞOARA",
+    "url": "https://www.undelucram.ro/ro/locuri-de-munca/working-student-laboratory-support-chemical-testing/100788",
+    "title": "Working Student Laboratory Support (Chemical Testing)",
+    "company": "BOSCH REXROTH S.R.L.",
     "location": [
-      "Timișoara, Romania"
+      "Cluj, Jucu, Romania"
     ],
     "salary": null,
-    "date": "2026-10-05T17:06:53.167Z",
+    "date": "2026-10-06T15:04:18.446Z",
     "status": "scraped",
     "tags": [
-      "analiza numerica",
-      "modelare matematica"
+      "cercetare experimentală",
+      "prelucrarea datelor"
     ],
-    "matchPercentage": 62,
-    "reason": "Inginer de cercetare in calculatoare la un institut de R&D, nivel entry, unde analiza numerica si modelarea computationala se potrivesc partial."
+    "matchPercentage": 72,
+    "reason": "Laborator de analize fizico-chimice pe materiale, cu studii de fizica admise, prelucrarea datelor si rapoarte, la nivel de student."
   }
 ]
