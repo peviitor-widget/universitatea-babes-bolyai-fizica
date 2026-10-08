@@ -1,36 +1,19 @@
 [
   {
-    "url": "https://multijobs.ro/job/asistent-de-cercetare-in-stiinta-materialelor/2860",
-    "title": "Asistent de cercetare in stiinta materialelor",
-    "company": "INSTITUTUL NATIONAL DE CERCETARE-DEZVOLTARE PENTRU TEXTILE SI PIELARIE-I.N.C.D.T.P. BUCURESTI SUCURSALA BUCURESTI INSTITUTUL DE CERCETARE PIELARIE - INCALTAMINTE I.C.P.I.",
+    "url": "https://www.bestjobs.eu/loc-de-munca/inginer-in-stiinta-materialelor-3",
+    "title": "Inginer in stiinta materialelor",
+    "company": "FORJA ROTEC SRL",
     "location": [
-      "Bucuresti, Romania"
+      "Ploiesti, Romania,Bucuresti, Romania,Buzau, Romania,Ramnicu Sarat, Romania,Braila, Romania,Galati, Romania"
     ],
     "salary": null,
-    "date": "2026-10-06T14:59:51.964Z",
+    "date": "2026-10-07T15:25:22.392Z",
     "status": "scraped",
     "tags": [
-      "cercetare experimentala",
-      "caracterizare materiale"
+      "caracterizare materiale",
+      "cercetare experimentală"
     ],
-    "matchPercentage": 80,
-    "reason": "Asistent de cercetare in stiinta materialelor, potrivit direct cu experimentarea si caracterizarea materialelor, la nivel entry."
-  },
-  {
-    "url": "https://www.undelucram.ro/ro/locuri-de-munca/working-student-laboratory-support-chemical-testing/100788",
-    "title": "Working Student Laboratory Support (Chemical Testing)",
-    "company": "BOSCH REXROTH S.R.L.",
-    "location": [
-      "Cluj, Jucu, Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-06T15:04:18.446Z",
-    "status": "scraped",
-    "tags": [
-      "cercetare experimentală",
-      "prelucrarea datelor"
-    ],
-    "matchPercentage": 72,
-    "reason": "Laborator de analize fizico-chimice pe materiale, cu studii de fizica admise, prelucrarea datelor si rapoarte, la nivel de student."
+    "matchPercentage": 76,
+    "reason": "Inginer în știința materialelor se potrivește parțial cu competențele de caracterizarea materialelor și analiza experimentală, dar presupune mai mult inginerie metalurgică decât fizică de cercetare."
   }
 ]
