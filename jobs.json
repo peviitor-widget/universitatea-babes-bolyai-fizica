@@ -1,19 +1,87 @@
 [
   {
-    "url": "https://www.bestjobs.eu/loc-de-munca/inginer-in-stiinta-materialelor-3",
-    "title": "Inginer in stiinta materialelor",
-    "company": "FORJA ROTEC SRL",
+    "url": "https://www.hipo.ro/locuri-de-munca/locuri_de_munca/270185/Centrul-de-Meditatii-si-Dezvoltare-Personala/Profesor-colaborator-fizică",
+    "title": "Profesor colaborator fizică",
+    "company": "CENTRUL DE MEDITATII SI DEZVOLTARE PERSONALA &quot;ALGORITHM&quot; SRL",
     "location": [
-      "Ploiesti, Romania,Bucuresti, Romania,Buzau, Romania,Ramnicu Sarat, Romania,Braila, Romania,Galati, Romania"
+      "Romania"
     ],
     "salary": null,
-    "date": "2026-10-07T15:25:22.392Z",
+    "date": "2026-10-08T15:22:21.729Z",
     "status": "scraped",
     "tags": [
-      "caracterizare materiale",
-      "cercetare experimentală"
+      "interpretarea datelor experimentale",
+      "prezentarea rezultatelor"
     ],
-    "matchPercentage": 76,
-    "reason": "Inginer în știința materialelor se potrivește parțial cu competențele de caracterizarea materialelor și analiza experimentală, dar presupune mai mult inginerie metalurgică decât fizică de cercetare."
+    "matchPercentage": 65,
+    "reason": "Predarea meditațiilor de fizică folosește direct cunoștințele de fizică și nivelul este deschis studenților/absolvenților."
+  },
+  {
+    "url": "https://jobs.bosch.com/en/job/REF297202E-working-student-electrical-calibration",
+    "title": "Working Student Electrical Calibration",
+    "company": "BOSCH REXROTH S.R.L.",
+    "location": [
+      "Blaj, Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-08T15:26:21.701Z",
+    "status": "scraped",
+    "tags": [
+      "evaluarea incertitudinii",
+      "echipamente de laborator"
+    ],
+    "matchPercentage": 65,
+    "reason": "Calibrarea echipamentelor electrice foloseste masurarea precisa si evaluarea incertitudinii, competente transferabile din laboratorul de fizica."
+  },
+  {
+    "url": "https://www.hipo.ro/locuri-de-munca/locuri_de_munca/272266/Bosch-Romania/Working-Student-Laboratory-Support-(Electronics-Testing)",
+    "title": "Working Student Laboratory Support (Electronics Testing)",
+    "company": "BOSCH REXROTH S.R.L.",
+    "location": [
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-08T15:23:36.851Z",
+    "status": "scraped",
+    "tags": [
+      "echipamente de laborator",
+      "interpretarea datelor"
+    ],
+    "matchPercentage": 65,
+    "reason": "Testarea electronica in laborator foloseste masurarea, echipamentele si prelucrarea datelor experimentale, competente cheie din formarea de fizica."
+  },
+  {
+    "url": "https://www.ejobs.ro/user/locuri-de-munca/internship-for-rel-laboratory-iasi/1990168",
+    "title": "Internship for REL Laboratory (Iasi)",
+    "company": "AUMOVIO TECHNOLOGIES ROMANIA S.R.L.",
+    "location": [
+      "Iași, Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-08T15:24:09Z",
+    "status": "scraped",
+    "tags": [
+      "echipamente de laborator",
+      "prelucrarea datelor experimentale"
+    ],
+    "matchPercentage": 64,
+    "reason": "Internship de laborator cu manevrare echipamente, efectuarea de teste și înregistrarea precisă a datelor, potrivire parțială cu experiența experimentală de laborator, deși domeniul e de fiabilitate auto."
+  },
+  {
+    "url": "https://www.hipo.ro/locuri-de-munca/locuri_de_munca/272267/Bosch-Romania/Working-Student-Laboratory-Support-(Chemical-Testing)",
+    "title": "Working Student Laboratory Support (Chemical Testing)",
+    "company": "BOSCH REXROTH S.R.L.",
+    "location": [
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-08T15:23:36.851Z",
+    "status": "scraped",
+    "tags": [
+      "caracterizarea materialelor",
+      "echipamente de laborator"
+    ],
+    "matchPercentage": 62,
+    "reason": "Suport de laborator pentru testare chimica implica pregatirea si caracterizarea materialelor si utilizarea echipamentelor de laborator."
   }
 ]
