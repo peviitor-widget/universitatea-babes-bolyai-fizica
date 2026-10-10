@@ -1,5 +1,22 @@
 [
   {
+    "url": "https://jobs.bosch.com/en/job/REF297525F-junior-data-scientist-for-e-mobility-cloud-solutions",
+    "title": "Junior Data Scientist for (e-)Mobility Cloud Solutions",
+    "company": "BOSCH REXROTH S.R.L.",
+    "location": [
+      "Cluj-Napoca, Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-09T15:26:48.881Z",
+    "status": "scraped",
+    "tags": [
+      "analiza numerica",
+      "modelare computationala"
+    ],
+    "matchPercentage": 63,
+    "reason": "Data science folosește analiză numerică, algebră liniară și modelare computațională, dar domeniul e mobilitate/cloud, nu fizică."
+  },
+  {
     "url": "https://www.hipo.ro/locuri-de-munca/locuri_de_munca/270185/Centrul-de-Meditatii-si-Dezvoltare-Personala/Profesor-colaborator-fizică",
     "title": "Profesor colaborator fizică",
     "company": "CENTRUL DE MEDITATII SI DEZVOLTARE PERSONALA &quot;ALGORITHM&quot; SRL",
@@ -7,81 +24,30 @@
       "Romania"
     ],
     "salary": null,
-    "date": "2026-10-08T15:22:21.729Z",
+    "date": "2026-10-09T15:26:48.881Z",
     "status": "scraped",
     "tags": [
-      "interpretarea datelor experimentale",
-      "prezentarea rezultatelor"
-    ],
-    "matchPercentage": 65,
-    "reason": "Predarea meditațiilor de fizică folosește direct cunoștințele de fizică și nivelul este deschis studenților/absolvenților."
-  },
-  {
-    "url": "https://jobs.bosch.com/en/job/REF297202E-working-student-electrical-calibration",
-    "title": "Working Student Electrical Calibration",
-    "company": "BOSCH REXROTH S.R.L.",
-    "location": [
-      "Blaj, Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-08T15:26:21.701Z",
-    "status": "scraped",
-    "tags": [
-      "evaluarea incertitudinii",
-      "echipamente de laborator"
-    ],
-    "matchPercentage": 65,
-    "reason": "Calibrarea echipamentelor electrice foloseste masurarea precisa si evaluarea incertitudinii, competente transferabile din laboratorul de fizica."
-  },
-  {
-    "url": "https://www.hipo.ro/locuri-de-munca/locuri_de_munca/272266/Bosch-Romania/Working-Student-Laboratory-Support-(Electronics-Testing)",
-    "title": "Working Student Laboratory Support (Electronics Testing)",
-    "company": "BOSCH REXROTH S.R.L.",
-    "location": [
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-08T15:23:36.851Z",
-    "status": "scraped",
-    "tags": [
-      "echipamente de laborator",
-      "interpretarea datelor"
-    ],
-    "matchPercentage": 65,
-    "reason": "Testarea electronica in laborator foloseste masurarea, echipamentele si prelucrarea datelor experimentale, competente cheie din formarea de fizica."
-  },
-  {
-    "url": "https://www.ejobs.ro/user/locuri-de-munca/internship-for-rel-laboratory-iasi/1990168",
-    "title": "Internship for REL Laboratory (Iasi)",
-    "company": "AUMOVIO TECHNOLOGIES ROMANIA S.R.L.",
-    "location": [
-      "Iași, Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-08T15:24:09Z",
-    "status": "scraped",
-    "tags": [
-      "echipamente de laborator",
-      "prelucrarea datelor experimentale"
-    ],
-    "matchPercentage": 64,
-    "reason": "Internship de laborator cu manevrare echipamente, efectuarea de teste și înregistrarea precisă a datelor, potrivire parțială cu experiența experimentală de laborator, deși domeniul e de fiabilitate auto."
-  },
-  {
-    "url": "https://www.hipo.ro/locuri-de-munca/locuri_de_munca/272267/Bosch-Romania/Working-Student-Laboratory-Support-(Chemical-Testing)",
-    "title": "Working Student Laboratory Support (Chemical Testing)",
-    "company": "BOSCH REXROTH S.R.L.",
-    "location": [
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-08T15:23:36.851Z",
-    "status": "scraped",
-    "tags": [
-      "caracterizarea materialelor",
-      "echipamente de laborator"
+      "prezentare publica",
+      "documentare"
     ],
     "matchPercentage": 62,
-    "reason": "Suport de laborator pentru testare chimica implica pregatirea si caracterizarea materialelor si utilizarea echipamentelor de laborator."
+    "reason": "Predare fizica pentru studenti/absolventi, domeniu partial potrivit dar orientat spre didactica nu cercetare."
+  },
+  {
+    "url": "https://career.preh.com/en/job-openings/current-job-offers.html?yid=3934",
+    "title": "Inginer Laborator Măsuratori (Middle Level)",
+    "company": "PREH ROMANIA SRL",
+    "location": [
+      "Ghimbav, Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-09T15:27:43.079Z",
+    "status": "scraped",
+    "tags": [
+      "date experimentale",
+      "echipamente laborator"
+    ],
+    "matchPercentage": 60,
+    "reason": "Laborator de măsurători cu analiza datelor, incertitudini și echipamente, dar metrologie dimensională mecanică nu fizică magnetică."
   }
 ]
