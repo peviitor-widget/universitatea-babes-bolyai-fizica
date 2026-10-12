@@ -1,70 +1,19 @@
 [
   {
-    "url": "https://www.hipo.ro/locuri-de-munca/locuri_de_munca/270179/Centrul-de-Meditatii-si-Dezvoltare-Personala/Profesor-de-matematică-debutant",
-    "title": "Profesor de matematică debutant",
-    "company": "CENTRUL DE MEDITATII SI DEZVOLTARE PERSONALA &quot;ALGORITHM&quot; SRL",
+    "url": "https://www.bestjobs.eu/loc-de-munca/profesori-de-matematica-fizica-chimie-2",
+    "title": "Profesori de Matematica si Fizica",
+    "company": "CORAL IMPEX  SRL",
     "location": [
-      "Romania"
+      "Ploiesti, Romania"
     ],
     "salary": null,
-    "date": "2026-10-10T14:36:40.261Z",
+    "date": "2026-10-11T15:03:06.174Z",
     "status": "scraped",
     "tags": [
-      "algebra",
-      "analiza"
-    ],
-    "matchPercentage": 63,
-    "reason": "Predare matematica foloseste direct competentele de algebra si analiza, nivel debutant/student."
-  },
-  {
-    "url": "https://www.hipo.ro/locuri-de-munca/locuri_de_munca/270175/Centrul-de-Meditatii-si-Dezvoltare-Personala/Profesor-matematica",
-    "title": "Profesor matematica",
-    "company": "CENTRUL DE MEDITATII SI DEZVOLTARE PERSONALA &quot;ALGORITHM&quot; SRL",
-    "location": [
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-10T14:36:40.261Z",
-    "status": "scraped",
-    "tags": [
-      "algebra",
-      "analiza"
-    ],
-    "matchPercentage": 63,
-    "reason": "Predare matematica foloseste direct competentele de algebra si analiza, nivel student/absolvent."
-  },
-  {
-    "url": "https://www.bestjobs.eu/loc-de-munca/trainer-matematica-9",
-    "title": "Trainer matematică",
-    "company": "MTH EDUCATION S.R.L.",
-    "location": [
-      "Bulevardul Iuliu Maniu 158A, Bucuresti, Romania,Nicolae Caramfil 49 Business Center, Strada Nicolae G. Caramfil, București, Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-10T14:15:31.818Z",
-    "status": "scraped",
-    "tags": [
-      "algebra",
-      "analiza"
+      "analiza matematica",
+      "fizica"
     ],
     "matchPercentage": 62,
-    "reason": "Trainer de matematica valorifica competentele de algebra si analiza matematica."
-  },
-  {
-    "url": "https://www.bestjobs.eu/loc-de-munca/profesor-matematica-30",
-    "title": "PROFESOR MATEMATICA",
-    "company": "COMPLEXUL DE TERAPIE NATURALA BREAZA - &quot;ALEXANDRA&quot; SRL",
-    "location": [
-      "Strada Iuliu Barasch, Bucuresti 030167, Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-09T15:28:14.294Z",
-    "status": "scraped",
-    "tags": [
-      "algebra",
-      "analiza"
-    ],
-    "matchPercentage": 62,
-    "reason": "Profesor de matematica valorifica direct competentele matematice din plan."
+    "reason": "Predarea matematicii si fizicii foloseste competente de analiza matematica si fizica, dar nu cercetarea de specialitate."
   }
 ]
