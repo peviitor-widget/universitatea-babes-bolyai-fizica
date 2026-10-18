@@ -1,1 +1,54 @@
-[]
+[
+  {
+    "url": "https://www.hipo.ro/locuri-de-munca/locuri_de_munca/270179/Centrul-de-Meditatii-si-Dezvoltare-Personala/Profesor-de-matematică-debutant",
+    "title": "Profesor de matematică debutant",
+    "company": "CENTRUL DE MEDITATII SI DEZVOLTARE PERSONALA &quot;ALGORITHM&quot; SRL",
+    "location": [
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-17T12:10:26.977Z",
+    "status": "scraped",
+    "tags": [
+      "algebra liniara",
+      "calcul diferential"
+    ],
+    "matchPercentage": 62,
+    "reason": "Predarea matematicii la nivel debutant folosește direct cunoștințele de algebra liniară și calcul diferențial."
+  },
+  {
+    "url": "https://www.hipo.ro/locuri-de-munca/locuri_de_munca/270175/Centrul-de-Meditatii-si-Dezvoltare-Personala/Profesor-matematica",
+    "title": "Profesor matematica",
+    "company": "CENTRUL DE MEDITATII SI DEZVOLTARE PERSONALA &quot;ALGORITHM&quot; SRL",
+    "location": [
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-17T12:10:26.977Z",
+    "status": "scraped",
+    "tags": [
+      "algebra liniara",
+      "calcul diferential"
+    ],
+    "matchPercentage": 62,
+    "reason": "Predarea matematicii folosește cunoștințele de algebră și analiză matematică acumulate în pregătirea de fizică."
+  },
+  {
+    "url": "https://www.ejobs.ro/user/locuri-de-munca/junior-engineer-global-trainee-zalau/99249296",
+    "title": "Junior Engineer (Global Trainee) | Zalău",
+    "company": "SILCOTUB SA",
+    "location": [
+      "Zalau",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-17T12:06:32.548Z",
+    "status": "scraped",
+    "tags": [
+      "caracterizare materiale",
+      "materiale magnetice"
+    ],
+    "matchPercentage": 62,
+    "reason": "Program de junior pentru absolventi, cu specializari acceptate inclusiv Material Science, ceea ce se suprapune partial cu pregatirea si caracterizarea materialelor."
+  }
+]
