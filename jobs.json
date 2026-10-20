@@ -1,72 +1,37 @@
 [
   {
-    "url": "https://www.hipo.ro/locuri-de-munca/locuri_de_munca/270179/Centrul-de-Meditatii-si-Dezvoltare-Personala/Profesor-de-matematică-debutant",
-    "title": "Profesor de matematică debutant",
-    "company": "CENTRUL DE MEDITATII SI DEZVOLTARE PERSONALA &quot;ALGORITHM&quot; SRL",
+    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000152220817-working-student-electrical-calibration",
+    "title": "Working Student Electrical Calibration",
+    "company": "ROBERT BOSCH SRL",
     "location": [
-      "Romania"
+      "România"
     ],
     "salary": null,
-    "date": "2026-10-17T12:10:26.977Z",
+    "date": "2026-10-19T12:44:36.733Z",
     "status": "scraped",
     "tags": [
-      "algebra",
-      "serii"
+      "metrologie",
+      "incertitudine"
     ],
     "matchPercentage": 65,
-    "reason": "Predarea matematicii folosește parțial competențe de algebră și analiză, dar nu competențe de specialitate din fizica experimentală sau teoretică aplicată."
+    "reason": "Calibrare electrică și metrologie, relevant parțial pentru măsurători experimentale."
   },
   {
-    "url": "https://www.hipo.ro/locuri-de-munca/locuri_de_munca/270175/Centrul-de-Meditatii-si-Dezvoltare-Personala/Profesor-matematica",
-    "title": "Profesor matematica",
-    "company": "CENTRUL DE MEDITATII SI DEZVOLTARE PERSONALA &quot;ALGORITHM&quot; SRL",
+    "url": "https://www.ejobs.ro/user/locuri-de-munca/junior-engineer-global-trainee-zalau/99249296",
+    "title": "Junior Engineer (Global Trainee) | Zalău",
+    "company": "SILCOTUB SA",
     "location": [
+      "Zalau",
       "Romania"
     ],
     "salary": null,
-    "date": "2026-10-17T12:10:26.977Z",
+    "date": "2026-10-17T12:06:32.548Z",
     "status": "scraped",
     "tags": [
-      "algebra",
-      "serii"
+      "materiale",
+      "stare solida"
     ],
     "matchPercentage": 65,
-    "reason": "Predarea matematicii utilizează competențe de calcul și algebră, însă nu se aliniază direct cu specializările din fizică."
-  },
-  {
-    "url": "https://www.undelucram.ro/ro/locuri-de-munca/inginer-energetician-analiza-retea/99947",
-    "title": "Inginer Energetician Analiză Rețea",
-    "company": "PPC PRODUCTIE ROMANIA S.R.L.",
-    "location": [
-      "București",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-17T12:22:02.148Z",
-    "status": "scraped",
-    "tags": [
-      "modelare",
-      "analiza vectoriala"
-    ],
-    "matchPercentage": 60,
-    "reason": "Analiza rețelei energetice poate folosi modelare matematică și analiză vectorială, dar nu se potrivește direct cu specializările din fizica materialelor sau supraconductibilitate."
-  },
-  {
-    "url": "https://multijobs.ro/job/oportunitate-de-cariera-in-analiza-si-management-de-date/423",
-    "title": "Oportunitate de carieră în Analiză și Management de Date",
-    "company": "CHESCA SPEDITION SRL",
-    "location": [
-      "Galati",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-17T12:16:31.386Z",
-    "status": "scraped",
-    "tags": [
-      "modelare",
-      "algebra"
-    ],
-    "matchPercentage": 60,
-    "reason": "Activitatea de analiză și management de date poate valorifica modelarea computațională, dar nu folosește direct competențele experimentale sau teoretice de specialitate din fizică."
+    "reason": "Metalurgie și știința materialelor, suprapus parțial cu fizica stării solide."
   }
 ]
