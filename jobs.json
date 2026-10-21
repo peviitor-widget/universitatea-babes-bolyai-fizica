@@ -7,14 +7,14 @@
       "România"
     ],
     "salary": null,
-    "date": "2026-10-19T12:44:36.733Z",
+    "date": "2026-10-20T11:15:25.335Z",
     "status": "scraped",
     "tags": [
       "metrologie",
-      "incertitudine"
+      "incertitudine experimentala"
     ],
-    "matchPercentage": 65,
-    "reason": "Calibrare electrică și metrologie, relevant parțial pentru măsurători experimentale."
+    "matchPercentage": 66,
+    "reason": "Calibrare electrica si inspectii metrologice pe echipamente de masurare, adiacente metrologiei experimentale si evaluarii incertitudii masurarilor."
   },
   {
     "url": "https://www.ejobs.ro/user/locuri-de-munca/junior-engineer-global-trainee-zalau/99249296",
@@ -28,10 +28,28 @@
     "date": "2026-10-17T12:06:32.548Z",
     "status": "scraped",
     "tags": [
-      "materiale",
-      "stare solida"
+      "fizica materialelor",
+      "caracterizare materiale"
     ],
-    "matchPercentage": 65,
-    "reason": "Metalurgie și știința materialelor, suprapus parțial cu fizica stării solide."
+    "matchPercentage": 62,
+    "reason": "Program trainee de 2 ani in calitate si operatiuni la un producator de tuburi metalice, in domeniul materialelor si caracterizarii, relevant pentru fizica materialelor."
+  },
+  {
+    "url": "https://www.randstad.ro/locuri-de-munca/specialist-testare-etanseitate-prin-vacuum-italia_padova_5326/",
+    "title": "Specialist Testare Etanșeitate prin Vacuum. Italia",
+    "company": "RANDSTAD ROMANIA SRL",
+    "location": [
+      "Padova",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-20T10:54:34.679Z",
+    "status": "scraped",
+    "tags": [
+      "criogenie",
+      "echipament laborator"
+    ],
+    "matchPercentage": 60,
+    "reason": "Testarea etanseitatii prin vid presupune tehnici de vid si detectie de scurgeri folosite si in criogenie, dar rolul e tehnician industrial, cu partial match la cercetarea ta."
   }
 ]
