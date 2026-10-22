@@ -1,40 +1,5 @@
 [
   {
-    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000152220817-working-student-electrical-calibration",
-    "title": "Working Student Electrical Calibration",
-    "company": "ROBERT BOSCH SRL",
-    "location": [
-      "România"
-    ],
-    "salary": null,
-    "date": "2026-10-20T11:15:25.335Z",
-    "status": "scraped",
-    "tags": [
-      "metrologie",
-      "incertitudine experimentala"
-    ],
-    "matchPercentage": 66,
-    "reason": "Calibrare electrica si inspectii metrologice pe echipamente de masurare, adiacente metrologiei experimentale si evaluarii incertitudii masurarilor."
-  },
-  {
-    "url": "https://www.ejobs.ro/user/locuri-de-munca/junior-engineer-global-trainee-zalau/99249296",
-    "title": "Junior Engineer (Global Trainee) | Zalău",
-    "company": "SILCOTUB SA",
-    "location": [
-      "Zalau",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-17T12:06:32.548Z",
-    "status": "scraped",
-    "tags": [
-      "fizica materialelor",
-      "caracterizare materiale"
-    ],
-    "matchPercentage": 62,
-    "reason": "Program trainee de 2 ani in calitate si operatiuni la un producator de tuburi metalice, in domeniul materialelor si caracterizarii, relevant pentru fizica materialelor."
-  },
-  {
     "url": "https://www.randstad.ro/locuri-de-munca/specialist-testare-etanseitate-prin-vacuum-italia_padova_5326/",
     "title": "Specialist Testare Etanșeitate prin Vacuum. Italia",
     "company": "RANDSTAD ROMANIA SRL",
@@ -43,13 +8,13 @@
       "Romania"
     ],
     "salary": null,
-    "date": "2026-10-20T10:54:34.679Z",
+    "date": "2026-10-21T11:08:10.132Z",
     "status": "scraped",
     "tags": [
       "criogenie",
-      "echipament laborator"
+      "laborator"
     ],
-    "matchPercentage": 60,
-    "reason": "Testarea etanseitatii prin vid presupune tehnici de vid si detectie de scurgeri folosite si in criogenie, dar rolul e tehnician industrial, cu partial match la cercetarea ta."
+    "matchPercentage": 65,
+    "reason": "Testare prin vid relevanta partial pentru sisteme criogenice/supraconductoare."
   }
 ]
