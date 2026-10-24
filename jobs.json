@@ -1,1 +1,20 @@
-[]
+[
+  {
+    "url": "https://www.ejobs.ro/user/locuri-de-munca/junior-engineer-global-trainee-zalau/99249296",
+    "title": "Junior Engineer (Global Trainee) | Zalău",
+    "company": "SILCOTUB SA",
+    "location": [
+      "Zalau",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-17T12:06:32.548Z",
+    "status": "scraped",
+    "tags": [
+      "materiale",
+      "metalurgie"
+    ],
+    "matchPercentage": 65,
+    "reason": "Prezenta metalurgiei si stiintei materialelor permite aplicarea cunostintelor de fizica a starii solide."
+  }
+]
