@@ -1,1 +1,19 @@
-[]
+[
+  {
+    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000160562749-working-student-laboratory-support-electronics-testing",
+    "title": "Working Student Laboratory Support (Electronics Testing)",
+    "company": "ROBERT BOSCH SRL",
+    "location": [
+      "România"
+    ],
+    "salary": null,
+    "date": "2026-11-26T16:40:48.551Z",
+    "status": "scraped",
+    "tags": [
+      "cercetare experimentala",
+      "date experimentale"
+    ],
+    "matchPercentage": 65,
+    "reason": "Analizele și diagnosticele de laborator pentru componente electronice folosesc parțial competențele de lucru experimental și interpretare a datelor, la nivel de working student."
+  }
+]
